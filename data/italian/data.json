@@ -1,0 +1,5002 @@
+[
+    {
+        "rank": 1,
+        "word": "come",
+        "hint": "as"
+    },
+    {
+        "rank": 2,
+        "word": "io",
+        "hint": "I"
+    },
+    {
+        "rank": 3,
+        "word": "il suo",
+        "hint": "his"
+    },
+    {
+        "rank": 4,
+        "word": "che",
+        "hint": "that"
+    },
+    {
+        "rank": 5,
+        "word": "lui",
+        "hint": "he"
+    },
+    {
+        "rank": 6,
+        "word": "era",
+        "hint": "was"
+    },
+    {
+        "rank": 7,
+        "word": "per",
+        "hint": "for"
+    },
+    {
+        "rank": 8,
+        "word": "su",
+        "hint": "on"
+    },
+    {
+        "rank": 9,
+        "word": "sono",
+        "hint": "are"
+    },
+    {
+        "rank": 10,
+        "word": "con",
+        "hint": "with"
+    },
+    {
+        "rank": 11,
+        "word": "essi",
+        "hint": "they"
+    },
+    {
+        "rank": 12,
+        "word": "essere",
+        "hint": "be"
+    },
+    {
+        "rank": 13,
+        "word": "a",
+        "hint": "at"
+    },
+    {
+        "rank": 14,
+        "word": "uno",
+        "hint": "one"
+    },
+    {
+        "rank": 15,
+        "word": "avere",
+        "hint": "have"
+    },
+    {
+        "rank": 16,
+        "word": "questo",
+        "hint": "this"
+    },
+    {
+        "rank": 17,
+        "word": "da",
+        "hint": "from"
+    },
+    {
+        "rank": 18,
+        "word": "da",
+        "hint": "by"
+    },
+    {
+        "rank": 19,
+        "word": "caldo",
+        "hint": "hot"
+    },
+    {
+        "rank": 20,
+        "word": "parola",
+        "hint": "word"
+    },
+    {
+        "rank": 21,
+        "word": "ma",
+        "hint": "but"
+    },
+    {
+        "rank": 22,
+        "word": "cosa",
+        "hint": "what"
+    },
+    {
+        "rank": 23,
+        "word": "alcuni",
+        "hint": "some"
+    },
+    {
+        "rank": 24,
+        "word": "è",
+        "hint": "is"
+    },
+    {
+        "rank": 25,
+        "word": "esso",
+        "hint": "it"
+    },
+    {
+        "rank": 26,
+        "word": "voi",
+        "hint": "you"
+    },
+    {
+        "rank": 27,
+        "word": "o",
+        "hint": "or"
+    },
+    {
+        "rank": 28,
+        "word": "aveva",
+        "hint": "had"
+    },
+    {
+        "rank": 29,
+        "word": "il",
+        "hint": "the"
+    },
+    {
+        "rank": 30,
+        "word": "di",
+        "hint": "of"
+    },
+    {
+        "rank": 31,
+        "word": "a",
+        "hint": "to"
+    },
+    {
+        "rank": 32,
+        "word": "e",
+        "hint": "and"
+    },
+    {
+        "rank": 33,
+        "word": "un",
+        "hint": "a"
+    },
+    {
+        "rank": 34,
+        "word": "in",
+        "hint": "in"
+    },
+    {
+        "rank": 35,
+        "word": "noi",
+        "hint": "we"
+    },
+    {
+        "rank": 36,
+        "word": "lattina",
+        "hint": "can"
+    },
+    {
+        "rank": 37,
+        "word": "fuori",
+        "hint": "out"
+    },
+    {
+        "rank": 38,
+        "word": "altro",
+        "hint": "other"
+    },
+    {
+        "rank": 39,
+        "word": "erano",
+        "hint": "were"
+    },
+    {
+        "rank": 40,
+        "word": "che",
+        "hint": "which"
+    },
+    {
+        "rank": 41,
+        "word": "fare",
+        "hint": "do"
+    },
+    {
+        "rank": 42,
+        "word": "loro",
+        "hint": "their"
+    },
+    {
+        "rank": 43,
+        "word": "tempo",
+        "hint": "time"
+    },
+    {
+        "rank": 44,
+        "word": "se",
+        "hint": "if"
+    },
+    {
+        "rank": 45,
+        "word": "volontà",
+        "hint": "will"
+    },
+    {
+        "rank": 46,
+        "word": "come",
+        "hint": "how"
+    },
+    {
+        "rank": 47,
+        "word": "suddetto",
+        "hint": "said"
+    },
+    {
+        "rank": 48,
+        "word": "un",
+        "hint": "an"
+    },
+    {
+        "rank": 49,
+        "word": "ogni",
+        "hint": "each"
+    },
+    {
+        "rank": 50,
+        "word": "dire",
+        "hint": "tell"
+    },
+    {
+        "rank": 51,
+        "word": "fa",
+        "hint": "does"
+    },
+    {
+        "rank": 52,
+        "word": "set",
+        "hint": "set"
+    },
+    {
+        "rank": 53,
+        "word": "tre",
+        "hint": "three"
+    },
+    {
+        "rank": 54,
+        "word": "desiderare",
+        "hint": "want"
+    },
+    {
+        "rank": 55,
+        "word": "aria",
+        "hint": "air"
+    },
+    {
+        "rank": 56,
+        "word": "bene",
+        "hint": "well"
+    },
+    {
+        "rank": 57,
+        "word": "anche",
+        "hint": "also"
+    },
+    {
+        "rank": 58,
+        "word": "giocare",
+        "hint": "play"
+    },
+    {
+        "rank": 59,
+        "word": "piccolo",
+        "hint": "small"
+    },
+    {
+        "rank": 60,
+        "word": "fine",
+        "hint": "end"
+    },
+    {
+        "rank": 61,
+        "word": "mettere",
+        "hint": "put"
+    },
+    {
+        "rank": 62,
+        "word": "casa",
+        "hint": "home"
+    },
+    {
+        "rank": 63,
+        "word": "leggere",
+        "hint": "read"
+    },
+    {
+        "rank": 64,
+        "word": "mano",
+        "hint": "hand"
+    },
+    {
+        "rank": 65,
+        "word": "porto",
+        "hint": "port"
+    },
+    {
+        "rank": 66,
+        "word": "grande",
+        "hint": "large"
+    },
+    {
+        "rank": 67,
+        "word": "compitare",
+        "hint": "spell"
+    },
+    {
+        "rank": 68,
+        "word": "aggiungere",
+        "hint": "add"
+    },
+    {
+        "rank": 69,
+        "word": "anche",
+        "hint": "even"
+    },
+    {
+        "rank": 70,
+        "word": "terra",
+        "hint": "land"
+    },
+    {
+        "rank": 71,
+        "word": "qui",
+        "hint": "here"
+    },
+    {
+        "rank": 72,
+        "word": "mosto",
+        "hint": "must"
+    },
+    {
+        "rank": 73,
+        "word": "grande",
+        "hint": "big"
+    },
+    {
+        "rank": 74,
+        "word": "alto",
+        "hint": "high"
+    },
+    {
+        "rank": 75,
+        "word": "tale",
+        "hint": "such"
+    },
+    {
+        "rank": 76,
+        "word": "seguire",
+        "hint": "follow"
+    },
+    {
+        "rank": 77,
+        "word": "atto",
+        "hint": "act"
+    },
+    {
+        "rank": 78,
+        "word": "perché",
+        "hint": "why"
+    },
+    {
+        "rank": 79,
+        "word": "chiedere",
+        "hint": "ask"
+    },
+    {
+        "rank": 80,
+        "word": "maschi",
+        "hint": "men"
+    },
+    {
+        "rank": 81,
+        "word": "cambiamento",
+        "hint": "change"
+    },
+    {
+        "rank": 82,
+        "word": "è andato",
+        "hint": "went"
+    },
+    {
+        "rank": 83,
+        "word": "luce",
+        "hint": "light"
+    },
+    {
+        "rank": 84,
+        "word": "tipo",
+        "hint": "kind"
+    },
+    {
+        "rank": 85,
+        "word": "spento",
+        "hint": "off"
+    },
+    {
+        "rank": 86,
+        "word": "bisogno",
+        "hint": "need"
+    },
+    {
+        "rank": 87,
+        "word": "casa",
+        "hint": "house"
+    },
+    {
+        "rank": 88,
+        "word": "immagine",
+        "hint": "picture"
+    },
+    {
+        "rank": 89,
+        "word": "provare",
+        "hint": "try"
+    },
+    {
+        "rank": 90,
+        "word": "noi",
+        "hint": "us"
+    },
+    {
+        "rank": 91,
+        "word": "di nuovo",
+        "hint": "again"
+    },
+    {
+        "rank": 92,
+        "word": "animale",
+        "hint": "animal"
+    },
+    {
+        "rank": 93,
+        "word": "punto",
+        "hint": "point"
+    },
+    {
+        "rank": 94,
+        "word": "madre",
+        "hint": "mother"
+    },
+    {
+        "rank": 95,
+        "word": "mondo",
+        "hint": "world"
+    },
+    {
+        "rank": 96,
+        "word": "vicino",
+        "hint": "near"
+    },
+    {
+        "rank": 97,
+        "word": "costruire",
+        "hint": "build"
+    },
+    {
+        "rank": 98,
+        "word": "se stesso",
+        "hint": "self"
+    },
+    {
+        "rank": 99,
+        "word": "terra",
+        "hint": "earth"
+    },
+    {
+        "rank": 100,
+        "word": "padre",
+        "hint": "father"
+    },
+    {
+        "rank": 101,
+        "word": "qualsiasi",
+        "hint": "any"
+    },
+    {
+        "rank": 102,
+        "word": "nuovo",
+        "hint": "new"
+    },
+    {
+        "rank": 103,
+        "word": "lavoro",
+        "hint": "work"
+    },
+    {
+        "rank": 104,
+        "word": "parte",
+        "hint": "part"
+    },
+    {
+        "rank": 105,
+        "word": "prendere",
+        "hint": "take"
+    },
+    {
+        "rank": 106,
+        "word": "ottenere",
+        "hint": "get"
+    },
+    {
+        "rank": 107,
+        "word": "posto",
+        "hint": "place"
+    },
+    {
+        "rank": 108,
+        "word": "fatto",
+        "hint": "made"
+    },
+    {
+        "rank": 109,
+        "word": "vivere",
+        "hint": "live"
+    },
+    {
+        "rank": 110,
+        "word": "dove",
+        "hint": "where"
+    },
+    {
+        "rank": 111,
+        "word": "dopo",
+        "hint": "after"
+    },
+    {
+        "rank": 112,
+        "word": "indietro",
+        "hint": "back"
+    },
+    {
+        "rank": 113,
+        "word": "poco",
+        "hint": "little"
+    },
+    {
+        "rank": 114,
+        "word": "solo",
+        "hint": "only"
+    },
+    {
+        "rank": 115,
+        "word": "turno",
+        "hint": "round"
+    },
+    {
+        "rank": 116,
+        "word": "uomo",
+        "hint": "man"
+    },
+    {
+        "rank": 117,
+        "word": "anno",
+        "hint": "year"
+    },
+    {
+        "rank": 118,
+        "word": "è venuto",
+        "hint": "came"
+    },
+    {
+        "rank": 119,
+        "word": "spettacolo",
+        "hint": "show"
+    },
+    {
+        "rank": 120,
+        "word": "ogni",
+        "hint": "every"
+    },
+    {
+        "rank": 121,
+        "word": "buono",
+        "hint": "good"
+    },
+    {
+        "rank": 122,
+        "word": "me",
+        "hint": "me"
+    },
+    {
+        "rank": 123,
+        "word": "dare",
+        "hint": "give"
+    },
+    {
+        "rank": 124,
+        "word": "il nostro",
+        "hint": "our"
+    },
+    {
+        "rank": 125,
+        "word": "sotto",
+        "hint": "under"
+    },
+    {
+        "rank": 126,
+        "word": "nome",
+        "hint": "name"
+    },
+    {
+        "rank": 127,
+        "word": "molto",
+        "hint": "very"
+    },
+    {
+        "rank": 128,
+        "word": "attraverso",
+        "hint": "through"
+    },
+    {
+        "rank": 129,
+        "word": "solo",
+        "hint": "just"
+    },
+    {
+        "rank": 130,
+        "word": "forma",
+        "hint": "form"
+    },
+    {
+        "rank": 131,
+        "word": "frase",
+        "hint": "sentence"
+    },
+    {
+        "rank": 132,
+        "word": "grande",
+        "hint": "great"
+    },
+    {
+        "rank": 133,
+        "word": "pensare",
+        "hint": "think"
+    },
+    {
+        "rank": 134,
+        "word": "dire",
+        "hint": "say"
+    },
+    {
+        "rank": 135,
+        "word": "aiutare",
+        "hint": "help"
+    },
+    {
+        "rank": 136,
+        "word": "basso",
+        "hint": "low"
+    },
+    {
+        "rank": 137,
+        "word": "linea",
+        "hint": "line"
+    },
+    {
+        "rank": 138,
+        "word": "differire",
+        "hint": "differ"
+    },
+    {
+        "rank": 139,
+        "word": "turno",
+        "hint": "turn"
+    },
+    {
+        "rank": 140,
+        "word": "causa",
+        "hint": "cause"
+    },
+    {
+        "rank": 141,
+        "word": "molto",
+        "hint": "much"
+    },
+    {
+        "rank": 142,
+        "word": "dire",
+        "hint": "mean"
+    },
+    {
+        "rank": 143,
+        "word": "prima",
+        "hint": "before"
+    },
+    {
+        "rank": 144,
+        "word": "spostare",
+        "hint": "move"
+    },
+    {
+        "rank": 145,
+        "word": "diritto",
+        "hint": "right"
+    },
+    {
+        "rank": 146,
+        "word": "ragazzo",
+        "hint": "boy"
+    },
+    {
+        "rank": 147,
+        "word": "vecchio",
+        "hint": "old"
+    },
+    {
+        "rank": 148,
+        "word": "troppo",
+        "hint": "too"
+    },
+    {
+        "rank": 149,
+        "word": "stesso",
+        "hint": "same"
+    },
+    {
+        "rank": 150,
+        "word": "lei",
+        "hint": "she"
+    },
+    {
+        "rank": 151,
+        "word": "tutto",
+        "hint": "all"
+    },
+    {
+        "rank": 152,
+        "word": "ci",
+        "hint": "there"
+    },
+    {
+        "rank": 153,
+        "word": "quando",
+        "hint": "when"
+    },
+    {
+        "rank": 154,
+        "word": "su",
+        "hint": "up"
+    },
+    {
+        "rank": 155,
+        "word": "uso",
+        "hint": "use"
+    },
+    {
+        "rank": 156,
+        "word": "il tuo",
+        "hint": "your"
+    },
+    {
+        "rank": 157,
+        "word": "modo",
+        "hint": "way"
+    },
+    {
+        "rank": 158,
+        "word": "circa",
+        "hint": "about"
+    },
+    {
+        "rank": 159,
+        "word": "molti",
+        "hint": "many"
+    },
+    {
+        "rank": 160,
+        "word": "allora",
+        "hint": "then"
+    },
+    {
+        "rank": 161,
+        "word": "loro",
+        "hint": "them"
+    },
+    {
+        "rank": 162,
+        "word": "scrivere",
+        "hint": "write"
+    },
+    {
+        "rank": 163,
+        "word": "sarebbe",
+        "hint": "would"
+    },
+    {
+        "rank": 164,
+        "word": "come",
+        "hint": "like"
+    },
+    {
+        "rank": 165,
+        "word": "così",
+        "hint": "so"
+    },
+    {
+        "rank": 166,
+        "word": "queste",
+        "hint": "these"
+    },
+    {
+        "rank": 167,
+        "word": "lei",
+        "hint": "her"
+    },
+    {
+        "rank": 168,
+        "word": "lungo",
+        "hint": "long"
+    },
+    {
+        "rank": 169,
+        "word": "rendere",
+        "hint": "make"
+    },
+    {
+        "rank": 170,
+        "word": "cosa",
+        "hint": "thing"
+    },
+    {
+        "rank": 171,
+        "word": "vedere",
+        "hint": "see"
+    },
+    {
+        "rank": 172,
+        "word": "lui",
+        "hint": "him"
+    },
+    {
+        "rank": 173,
+        "word": "due",
+        "hint": "two"
+    },
+    {
+        "rank": 174,
+        "word": "ha",
+        "hint": "has"
+    },
+    {
+        "rank": 175,
+        "word": "guardare",
+        "hint": "look"
+    },
+    {
+        "rank": 176,
+        "word": "di più",
+        "hint": "more"
+    },
+    {
+        "rank": 177,
+        "word": "giorno",
+        "hint": "day"
+    },
+    {
+        "rank": 178,
+        "word": "potuto",
+        "hint": "could"
+    },
+    {
+        "rank": 179,
+        "word": "andare",
+        "hint": "go"
+    },
+    {
+        "rank": 180,
+        "word": "venire",
+        "hint": "come"
+    },
+    {
+        "rank": 181,
+        "word": "ha fatto",
+        "hint": "did"
+    },
+    {
+        "rank": 182,
+        "word": "numero",
+        "hint": "number"
+    },
+    {
+        "rank": 183,
+        "word": "suono",
+        "hint": "sound"
+    },
+    {
+        "rank": 184,
+        "word": "no",
+        "hint": "no"
+    },
+    {
+        "rank": 185,
+        "word": "più",
+        "hint": "most"
+    },
+    {
+        "rank": 186,
+        "word": "persone",
+        "hint": "people"
+    },
+    {
+        "rank": 187,
+        "word": "il mio",
+        "hint": "my"
+    },
+    {
+        "rank": 188,
+        "word": "oltre",
+        "hint": "over"
+    },
+    {
+        "rank": 189,
+        "word": "sapere",
+        "hint": "know"
+    },
+    {
+        "rank": 190,
+        "word": "acqua",
+        "hint": "water"
+    },
+    {
+        "rank": 191,
+        "word": "di",
+        "hint": "than"
+    },
+    {
+        "rank": 192,
+        "word": "chiamata",
+        "hint": "call"
+    },
+    {
+        "rank": 193,
+        "word": "primo",
+        "hint": "first"
+    },
+    {
+        "rank": 194,
+        "word": "che",
+        "hint": "who"
+    },
+    {
+        "rank": 195,
+        "word": "può",
+        "hint": "may"
+    },
+    {
+        "rank": 196,
+        "word": "giù",
+        "hint": "down"
+    },
+    {
+        "rank": 197,
+        "word": "lato",
+        "hint": "side"
+    },
+    {
+        "rank": 198,
+        "word": "stato",
+        "hint": "been"
+    },
+    {
+        "rank": 199,
+        "word": "ora",
+        "hint": "now"
+    },
+    {
+        "rank": 200,
+        "word": "trovare",
+        "hint": "find"
+    },
+    {
+        "rank": 201,
+        "word": "testa",
+        "hint": "head"
+    },
+    {
+        "rank": 202,
+        "word": "stare in piedi",
+        "hint": "stand"
+    },
+    {
+        "rank": 203,
+        "word": "proprio",
+        "hint": "own"
+    },
+    {
+        "rank": 204,
+        "word": "pagina",
+        "hint": "page"
+    },
+    {
+        "rank": 205,
+        "word": "dovrebbe",
+        "hint": "should"
+    },
+    {
+        "rank": 206,
+        "word": "paese",
+        "hint": "country"
+    },
+    {
+        "rank": 207,
+        "word": "fondare",
+        "hint": "found"
+    },
+    {
+        "rank": 208,
+        "word": "risposta",
+        "hint": "answer"
+    },
+    {
+        "rank": 209,
+        "word": "scuola",
+        "hint": "school"
+    },
+    {
+        "rank": 210,
+        "word": "crescere",
+        "hint": "grow"
+    },
+    {
+        "rank": 211,
+        "word": "studio",
+        "hint": "study"
+    },
+    {
+        "rank": 212,
+        "word": "ancora",
+        "hint": "still"
+    },
+    {
+        "rank": 213,
+        "word": "imparare",
+        "hint": "learn"
+    },
+    {
+        "rank": 214,
+        "word": "impianto",
+        "hint": "plant"
+    },
+    {
+        "rank": 215,
+        "word": "copertura",
+        "hint": "cover"
+    },
+    {
+        "rank": 216,
+        "word": "cibo",
+        "hint": "food"
+    },
+    {
+        "rank": 217,
+        "word": "sole",
+        "hint": "sun"
+    },
+    {
+        "rank": 218,
+        "word": "quattro",
+        "hint": "four"
+    },
+    {
+        "rank": 219,
+        "word": "fra",
+        "hint": "between"
+    },
+    {
+        "rank": 220,
+        "word": "stato",
+        "hint": "state"
+    },
+    {
+        "rank": 221,
+        "word": "mantenere",
+        "hint": "keep"
+    },
+    {
+        "rank": 222,
+        "word": "occhio",
+        "hint": "eye"
+    },
+    {
+        "rank": 223,
+        "word": "mai",
+        "hint": "never"
+    },
+    {
+        "rank": 224,
+        "word": "ultimo",
+        "hint": "last"
+    },
+    {
+        "rank": 225,
+        "word": "lasciare",
+        "hint": "let"
+    },
+    {
+        "rank": 226,
+        "word": "pensiero",
+        "hint": "thought"
+    },
+    {
+        "rank": 227,
+        "word": "città",
+        "hint": "city"
+    },
+    {
+        "rank": 228,
+        "word": "albero",
+        "hint": "tree"
+    },
+    {
+        "rank": 229,
+        "word": "attraversare",
+        "hint": "cross"
+    },
+    {
+        "rank": 230,
+        "word": "fattoria",
+        "hint": "farm"
+    },
+    {
+        "rank": 231,
+        "word": "difficile",
+        "hint": "hard"
+    },
+    {
+        "rank": 232,
+        "word": "inizio",
+        "hint": "start"
+    },
+    {
+        "rank": 233,
+        "word": "forza",
+        "hint": "might"
+    },
+    {
+        "rank": 234,
+        "word": "storia",
+        "hint": "story"
+    },
+    {
+        "rank": 235,
+        "word": "sega",
+        "hint": "saw"
+    },
+    {
+        "rank": 236,
+        "word": "lontano",
+        "hint": "far"
+    },
+    {
+        "rank": 237,
+        "word": "mare",
+        "hint": "sea"
+    },
+    {
+        "rank": 238,
+        "word": "disegnare",
+        "hint": "draw"
+    },
+    {
+        "rank": 239,
+        "word": "sinistra",
+        "hint": "left"
+    },
+    {
+        "rank": 240,
+        "word": "tardi",
+        "hint": "late"
+    },
+    {
+        "rank": 241,
+        "word": "run",
+        "hint": "run"
+    },
+    {
+        "rank": 242,
+        "word": "non",
+        "hint": "don’t"
+    },
+    {
+        "rank": 243,
+        "word": "mentre",
+        "hint": "while"
+    },
+    {
+        "rank": 244,
+        "word": "stampa",
+        "hint": "press"
+    },
+    {
+        "rank": 245,
+        "word": "close",
+        "hint": "close"
+    },
+    {
+        "rank": 246,
+        "word": "notte",
+        "hint": "night"
+    },
+    {
+        "rank": 247,
+        "word": "reale",
+        "hint": "real"
+    },
+    {
+        "rank": 248,
+        "word": "vita",
+        "hint": "life"
+    },
+    {
+        "rank": 249,
+        "word": "pochi",
+        "hint": "few"
+    },
+    {
+        "rank": 250,
+        "word": "nord",
+        "hint": "north"
+    },
+    {
+        "rank": 251,
+        "word": "libro",
+        "hint": "book"
+    },
+    {
+        "rank": 252,
+        "word": "portare",
+        "hint": "carry"
+    },
+    {
+        "rank": 253,
+        "word": "ha preso",
+        "hint": "took"
+    },
+    {
+        "rank": 254,
+        "word": "scienza",
+        "hint": "science"
+    },
+    {
+        "rank": 255,
+        "word": "mangiare",
+        "hint": "eat"
+    },
+    {
+        "rank": 256,
+        "word": "camera",
+        "hint": "room"
+    },
+    {
+        "rank": 257,
+        "word": "amico",
+        "hint": "friend"
+    },
+    {
+        "rank": 258,
+        "word": "ha iniziato",
+        "hint": "began"
+    },
+    {
+        "rank": 259,
+        "word": "idea",
+        "hint": "idea"
+    },
+    {
+        "rank": 260,
+        "word": "pesce",
+        "hint": "fish"
+    },
+    {
+        "rank": 261,
+        "word": "montagna",
+        "hint": "mountain"
+    },
+    {
+        "rank": 262,
+        "word": "stop",
+        "hint": "stop"
+    },
+    {
+        "rank": 263,
+        "word": "una volta",
+        "hint": "once"
+    },
+    {
+        "rank": 264,
+        "word": "base",
+        "hint": "base"
+    },
+    {
+        "rank": 265,
+        "word": "sentire",
+        "hint": "hear"
+    },
+    {
+        "rank": 266,
+        "word": "cavallo",
+        "hint": "horse"
+    },
+    {
+        "rank": 267,
+        "word": "taglio",
+        "hint": "cut"
+    },
+    {
+        "rank": 268,
+        "word": "sicuro",
+        "hint": "sure"
+    },
+    {
+        "rank": 269,
+        "word": "orologio",
+        "hint": "watch"
+    },
+    {
+        "rank": 270,
+        "word": "colore",
+        "hint": "color"
+    },
+    {
+        "rank": 271,
+        "word": "volto",
+        "hint": "face"
+    },
+    {
+        "rank": 272,
+        "word": "legno",
+        "hint": "wood"
+    },
+    {
+        "rank": 273,
+        "word": "principale",
+        "hint": "main"
+    },
+    {
+        "rank": 274,
+        "word": "aperto",
+        "hint": "open"
+    },
+    {
+        "rank": 275,
+        "word": "sembrare",
+        "hint": "seem"
+    },
+    {
+        "rank": 276,
+        "word": "insieme",
+        "hint": "together"
+    },
+    {
+        "rank": 277,
+        "word": "prossimo",
+        "hint": "next"
+    },
+    {
+        "rank": 278,
+        "word": "bianco",
+        "hint": "white"
+    },
+    {
+        "rank": 279,
+        "word": "bambini",
+        "hint": "children"
+    },
+    {
+        "rank": 280,
+        "word": "inizio",
+        "hint": "begin"
+    },
+    {
+        "rank": 281,
+        "word": "ottenuto",
+        "hint": "got"
+    },
+    {
+        "rank": 282,
+        "word": "camminare",
+        "hint": "walk"
+    },
+    {
+        "rank": 283,
+        "word": "esempio",
+        "hint": "example"
+    },
+    {
+        "rank": 284,
+        "word": "alleviare",
+        "hint": "ease"
+    },
+    {
+        "rank": 285,
+        "word": "carta",
+        "hint": "paper"
+    },
+    {
+        "rank": 286,
+        "word": "gruppo",
+        "hint": "group"
+    },
+    {
+        "rank": 287,
+        "word": "sempre",
+        "hint": "always"
+    },
+    {
+        "rank": 288,
+        "word": "musica",
+        "hint": "music"
+    },
+    {
+        "rank": 289,
+        "word": "quelli",
+        "hint": "those"
+    },
+    {
+        "rank": 290,
+        "word": "entrambi",
+        "hint": "both"
+    },
+    {
+        "rank": 291,
+        "word": "marchio",
+        "hint": "mark"
+    },
+    {
+        "rank": 292,
+        "word": "spesso",
+        "hint": "often"
+    },
+    {
+        "rank": 293,
+        "word": "lettera",
+        "hint": "letter"
+    },
+    {
+        "rank": 294,
+        "word": "fino a quando",
+        "hint": "until"
+    },
+    {
+        "rank": 295,
+        "word": "miglio",
+        "hint": "mile"
+    },
+    {
+        "rank": 296,
+        "word": "fiume",
+        "hint": "river"
+    },
+    {
+        "rank": 297,
+        "word": "auto",
+        "hint": "car"
+    },
+    {
+        "rank": 298,
+        "word": "piedi",
+        "hint": "feet"
+    },
+    {
+        "rank": 299,
+        "word": "cura",
+        "hint": "care"
+    },
+    {
+        "rank": 300,
+        "word": "secondo",
+        "hint": "second"
+    },
+    {
+        "rank": 301,
+        "word": "abbastanza",
+        "hint": "enough"
+    },
+    {
+        "rank": 302,
+        "word": "pianura",
+        "hint": "plain"
+    },
+    {
+        "rank": 303,
+        "word": "ragazza",
+        "hint": "girl"
+    },
+    {
+        "rank": 304,
+        "word": "solito",
+        "hint": "usual"
+    },
+    {
+        "rank": 305,
+        "word": "giovane",
+        "hint": "young"
+    },
+    {
+        "rank": 306,
+        "word": "pronto",
+        "hint": "ready"
+    },
+    {
+        "rank": 307,
+        "word": "sopra",
+        "hint": "above"
+    },
+    {
+        "rank": 308,
+        "word": "mai",
+        "hint": "ever"
+    },
+    {
+        "rank": 309,
+        "word": "rosso",
+        "hint": "red"
+    },
+    {
+        "rank": 310,
+        "word": "elenco",
+        "hint": "list"
+    },
+    {
+        "rank": 311,
+        "word": "anche se",
+        "hint": "though"
+    },
+    {
+        "rank": 312,
+        "word": "sentire",
+        "hint": "feel"
+    },
+    {
+        "rank": 313,
+        "word": "Discussioni",
+        "hint": "talk"
+    },
+    {
+        "rank": 314,
+        "word": "uccello",
+        "hint": "bird"
+    },
+    {
+        "rank": 315,
+        "word": "presto",
+        "hint": "soon"
+    },
+    {
+        "rank": 316,
+        "word": "corpo",
+        "hint": "body"
+    },
+    {
+        "rank": 317,
+        "word": "cane",
+        "hint": "dog"
+    },
+    {
+        "rank": 318,
+        "word": "famiglia",
+        "hint": "family"
+    },
+    {
+        "rank": 319,
+        "word": "diretto",
+        "hint": "direct"
+    },
+    {
+        "rank": 320,
+        "word": "posa",
+        "hint": "pose"
+    },
+    {
+        "rank": 321,
+        "word": "lasciare",
+        "hint": "leave"
+    },
+    {
+        "rank": 322,
+        "word": "canzone",
+        "hint": "song"
+    },
+    {
+        "rank": 323,
+        "word": "misurare",
+        "hint": "measure"
+    },
+    {
+        "rank": 324,
+        "word": "porta",
+        "hint": "door"
+    },
+    {
+        "rank": 325,
+        "word": "prodotto",
+        "hint": "product"
+    },
+    {
+        "rank": 326,
+        "word": "nero",
+        "hint": "black"
+    },
+    {
+        "rank": 327,
+        "word": "breve",
+        "hint": "short"
+    },
+    {
+        "rank": 328,
+        "word": "numerale",
+        "hint": "numeral"
+    },
+    {
+        "rank": 329,
+        "word": "classe",
+        "hint": "class"
+    },
+    {
+        "rank": 330,
+        "word": "vento",
+        "hint": "wind"
+    },
+    {
+        "rank": 331,
+        "word": "domanda",
+        "hint": "question"
+    },
+    {
+        "rank": 332,
+        "word": "accadere",
+        "hint": "happen"
+    },
+    {
+        "rank": 333,
+        "word": "integrale",
+        "hint": "complete"
+    },
+    {
+        "rank": 334,
+        "word": "nave",
+        "hint": "ship"
+    },
+    {
+        "rank": 335,
+        "word": "area",
+        "hint": "area"
+    },
+    {
+        "rank": 336,
+        "word": "metà",
+        "hint": "half"
+    },
+    {
+        "rank": 337,
+        "word": "rock",
+        "hint": "rock"
+    },
+    {
+        "rank": 338,
+        "word": "ordine",
+        "hint": "order"
+    },
+    {
+        "rank": 339,
+        "word": "fuoco",
+        "hint": "fire"
+    },
+    {
+        "rank": 340,
+        "word": "sud",
+        "hint": "south"
+    },
+    {
+        "rank": 341,
+        "word": "problema",
+        "hint": "problem"
+    },
+    {
+        "rank": 342,
+        "word": "pezzo",
+        "hint": "piece"
+    },
+    {
+        "rank": 343,
+        "word": "ha detto",
+        "hint": "told"
+    },
+    {
+        "rank": 344,
+        "word": "sapeva",
+        "hint": "knew"
+    },
+    {
+        "rank": 345,
+        "word": "passare",
+        "hint": "pass"
+    },
+    {
+        "rank": 346,
+        "word": "da",
+        "hint": "since"
+    },
+    {
+        "rank": 347,
+        "word": "top",
+        "hint": "top"
+    },
+    {
+        "rank": 348,
+        "word": "tutto",
+        "hint": "whole"
+    },
+    {
+        "rank": 349,
+        "word": "re",
+        "hint": "king"
+    },
+    {
+        "rank": 350,
+        "word": "strada",
+        "hint": "street"
+    },
+    {
+        "rank": 351,
+        "word": "pollice",
+        "hint": "inch"
+    },
+    {
+        "rank": 352,
+        "word": "moltiplicare",
+        "hint": "multiply"
+    },
+    {
+        "rank": 353,
+        "word": "niente",
+        "hint": "nothing"
+    },
+    {
+        "rank": 354,
+        "word": "corso",
+        "hint": "course"
+    },
+    {
+        "rank": 355,
+        "word": "soggiornare",
+        "hint": "stay"
+    },
+    {
+        "rank": 356,
+        "word": "ruota",
+        "hint": "wheel"
+    },
+    {
+        "rank": 357,
+        "word": "completo",
+        "hint": "full"
+    },
+    {
+        "rank": 358,
+        "word": "vigore",
+        "hint": "force"
+    },
+    {
+        "rank": 359,
+        "word": "blu",
+        "hint": "blue"
+    },
+    {
+        "rank": 360,
+        "word": "oggetto",
+        "hint": "object"
+    },
+    {
+        "rank": 361,
+        "word": "decidere",
+        "hint": "decide"
+    },
+    {
+        "rank": 362,
+        "word": "superficie",
+        "hint": "surface"
+    },
+    {
+        "rank": 363,
+        "word": "profondità",
+        "hint": "deep"
+    },
+    {
+        "rank": 364,
+        "word": "luna",
+        "hint": "moon"
+    },
+    {
+        "rank": 365,
+        "word": "isola",
+        "hint": "island"
+    },
+    {
+        "rank": 366,
+        "word": "piede",
+        "hint": "foot"
+    },
+    {
+        "rank": 367,
+        "word": "sistema",
+        "hint": "system"
+    },
+    {
+        "rank": 368,
+        "word": "occupato",
+        "hint": "busy"
+    },
+    {
+        "rank": 369,
+        "word": "test",
+        "hint": "test"
+    },
+    {
+        "rank": 370,
+        "word": "record",
+        "hint": "record"
+    },
+    {
+        "rank": 371,
+        "word": "barca",
+        "hint": "boat"
+    },
+    {
+        "rank": 372,
+        "word": "comune",
+        "hint": "common"
+    },
+    {
+        "rank": 373,
+        "word": "oro",
+        "hint": "gold"
+    },
+    {
+        "rank": 374,
+        "word": "possibile",
+        "hint": "possible"
+    },
+    {
+        "rank": 375,
+        "word": "piano",
+        "hint": "plane"
+    },
+    {
+        "rank": 376,
+        "word": "vece",
+        "hint": "stead"
+    },
+    {
+        "rank": 377,
+        "word": "asciutto",
+        "hint": "dry"
+    },
+    {
+        "rank": 378,
+        "word": "meraviglia",
+        "hint": "wonder"
+    },
+    {
+        "rank": 379,
+        "word": "ridere",
+        "hint": "laugh"
+    },
+    {
+        "rank": 380,
+        "word": "migliaia",
+        "hint": "thousand"
+    },
+    {
+        "rank": 381,
+        "word": "fa",
+        "hint": "ago"
+    },
+    {
+        "rank": 382,
+        "word": "corse",
+        "hint": "ran"
+    },
+    {
+        "rank": 383,
+        "word": "controllare",
+        "hint": "check"
+    },
+    {
+        "rank": 384,
+        "word": "gioco",
+        "hint": "game"
+    },
+    {
+        "rank": 385,
+        "word": "forma",
+        "hint": "shape"
+    },
+    {
+        "rank": 386,
+        "word": "uguagliare",
+        "hint": "equate"
+    },
+    {
+        "rank": 387,
+        "word": "caldo",
+        "hint": "hot"
+    },
+    {
+        "rank": 388,
+        "word": "perdere",
+        "hint": "miss"
+    },
+    {
+        "rank": 389,
+        "word": "portato",
+        "hint": "brought"
+    },
+    {
+        "rank": 390,
+        "word": "calore",
+        "hint": "heat"
+    },
+    {
+        "rank": 391,
+        "word": "neve",
+        "hint": "snow"
+    },
+    {
+        "rank": 392,
+        "word": "pneumatico",
+        "hint": "tire"
+    },
+    {
+        "rank": 393,
+        "word": "portare",
+        "hint": "bring"
+    },
+    {
+        "rank": 394,
+        "word": "sì",
+        "hint": "yes"
+    },
+    {
+        "rank": 395,
+        "word": "lontano",
+        "hint": "distant"
+    },
+    {
+        "rank": 396,
+        "word": "riempire",
+        "hint": "fill"
+    },
+    {
+        "rank": 397,
+        "word": "est",
+        "hint": "east"
+    },
+    {
+        "rank": 398,
+        "word": "dipingere",
+        "hint": "paint"
+    },
+    {
+        "rank": 399,
+        "word": "lingua",
+        "hint": "language"
+    },
+    {
+        "rank": 400,
+        "word": "tra",
+        "hint": "among"
+    },
+    {
+        "rank": 401,
+        "word": "unità",
+        "hint": "unit"
+    },
+    {
+        "rank": 402,
+        "word": "potenza",
+        "hint": "power"
+    },
+    {
+        "rank": 403,
+        "word": "città",
+        "hint": "town"
+    },
+    {
+        "rank": 404,
+        "word": "fine",
+        "hint": "fine"
+    },
+    {
+        "rank": 405,
+        "word": "certo",
+        "hint": "certain"
+    },
+    {
+        "rank": 406,
+        "word": "volare",
+        "hint": "fly"
+    },
+    {
+        "rank": 407,
+        "word": "cadere",
+        "hint": "fall"
+    },
+    {
+        "rank": 408,
+        "word": "portare",
+        "hint": "lead"
+    },
+    {
+        "rank": 409,
+        "word": "grido",
+        "hint": "cry"
+    },
+    {
+        "rank": 410,
+        "word": "scuro",
+        "hint": "dark"
+    },
+    {
+        "rank": 411,
+        "word": "macchina",
+        "hint": "machine"
+    },
+    {
+        "rank": 412,
+        "word": "nota",
+        "hint": "note"
+    },
+    {
+        "rank": 413,
+        "word": "aspettare",
+        "hint": "wait"
+    },
+    {
+        "rank": 414,
+        "word": "piano",
+        "hint": "plan"
+    },
+    {
+        "rank": 415,
+        "word": "figura",
+        "hint": "figure"
+    },
+    {
+        "rank": 416,
+        "word": "stella",
+        "hint": "star"
+    },
+    {
+        "rank": 417,
+        "word": "scatola",
+        "hint": "box"
+    },
+    {
+        "rank": 418,
+        "word": "sostantivo",
+        "hint": "noun"
+    },
+    {
+        "rank": 419,
+        "word": "campo",
+        "hint": "field"
+    },
+    {
+        "rank": 420,
+        "word": "resto",
+        "hint": "rest"
+    },
+    {
+        "rank": 421,
+        "word": "corretto",
+        "hint": "correct"
+    },
+    {
+        "rank": 422,
+        "word": "in grado di",
+        "hint": "able"
+    },
+    {
+        "rank": 423,
+        "word": "libbra",
+        "hint": "pound"
+    },
+    {
+        "rank": 424,
+        "word": "done",
+        "hint": "done"
+    },
+    {
+        "rank": 425,
+        "word": "bellezza",
+        "hint": "beauty"
+    },
+    {
+        "rank": 426,
+        "word": "unità",
+        "hint": "drive"
+    },
+    {
+        "rank": 427,
+        "word": "sorgeva",
+        "hint": "stood"
+    },
+    {
+        "rank": 428,
+        "word": "contenere",
+        "hint": "contain"
+    },
+    {
+        "rank": 429,
+        "word": "frontale",
+        "hint": "front"
+    },
+    {
+        "rank": 430,
+        "word": "insegnare",
+        "hint": "teach"
+    },
+    {
+        "rank": 431,
+        "word": "settimana",
+        "hint": "week"
+    },
+    {
+        "rank": 432,
+        "word": "finale",
+        "hint": "final"
+    },
+    {
+        "rank": 433,
+        "word": "ha dato",
+        "hint": "gave"
+    },
+    {
+        "rank": 434,
+        "word": "verde",
+        "hint": "green"
+    },
+    {
+        "rank": 435,
+        "word": "oh",
+        "hint": "oh"
+    },
+    {
+        "rank": 436,
+        "word": "veloce",
+        "hint": "quick"
+    },
+    {
+        "rank": 437,
+        "word": "sviluppare",
+        "hint": "develop"
+    },
+    {
+        "rank": 438,
+        "word": "oceano",
+        "hint": "ocean"
+    },
+    {
+        "rank": 439,
+        "word": "caldo",
+        "hint": "warm"
+    },
+    {
+        "rank": 440,
+        "word": "gratuito",
+        "hint": "free"
+    },
+    {
+        "rank": 441,
+        "word": "minuto",
+        "hint": "minute"
+    },
+    {
+        "rank": 442,
+        "word": "forte",
+        "hint": "strong"
+    },
+    {
+        "rank": 443,
+        "word": "speciale",
+        "hint": "special"
+    },
+    {
+        "rank": 444,
+        "word": "mente",
+        "hint": "mind"
+    },
+    {
+        "rank": 445,
+        "word": "dietro",
+        "hint": "behind"
+    },
+    {
+        "rank": 446,
+        "word": "chiaro",
+        "hint": "clear"
+    },
+    {
+        "rank": 447,
+        "word": "coda",
+        "hint": "tail"
+    },
+    {
+        "rank": 448,
+        "word": "produrre",
+        "hint": "produce"
+    },
+    {
+        "rank": 449,
+        "word": "fatto",
+        "hint": "fact"
+    },
+    {
+        "rank": 450,
+        "word": "spazio",
+        "hint": "space"
+    },
+    {
+        "rank": 451,
+        "word": "sentito",
+        "hint": "heard"
+    },
+    {
+        "rank": 452,
+        "word": "migliore",
+        "hint": "best"
+    },
+    {
+        "rank": 453,
+        "word": "ora",
+        "hint": "hour"
+    },
+    {
+        "rank": 454,
+        "word": "meglio",
+        "hint": "better"
+    },
+    {
+        "rank": 455,
+        "word": "vero",
+        "hint": "true"
+    },
+    {
+        "rank": 456,
+        "word": "durante",
+        "hint": "during"
+    },
+    {
+        "rank": 457,
+        "word": "cento",
+        "hint": "hundred"
+    },
+    {
+        "rank": 458,
+        "word": "cinque",
+        "hint": "five"
+    },
+    {
+        "rank": 459,
+        "word": "ricordare",
+        "hint": "remember"
+    },
+    {
+        "rank": 460,
+        "word": "passo",
+        "hint": "step"
+    },
+    {
+        "rank": 461,
+        "word": "presto",
+        "hint": "early"
+    },
+    {
+        "rank": 462,
+        "word": "tenere",
+        "hint": "hold"
+    },
+    {
+        "rank": 463,
+        "word": "ovest",
+        "hint": "west"
+    },
+    {
+        "rank": 464,
+        "word": "terra",
+        "hint": "ground"
+    },
+    {
+        "rank": 465,
+        "word": "interesse",
+        "hint": "interest"
+    },
+    {
+        "rank": 466,
+        "word": "raggiungere",
+        "hint": "reach"
+    },
+    {
+        "rank": 467,
+        "word": "veloce",
+        "hint": "fast"
+    },
+    {
+        "rank": 468,
+        "word": "verbo",
+        "hint": "verb"
+    },
+    {
+        "rank": 469,
+        "word": "cantare",
+        "hint": "sing"
+    },
+    {
+        "rank": 470,
+        "word": "ascoltare",
+        "hint": "listen"
+    },
+    {
+        "rank": 471,
+        "word": "sei",
+        "hint": "six"
+    },
+    {
+        "rank": 472,
+        "word": "tavolo",
+        "hint": "table"
+    },
+    {
+        "rank": 473,
+        "word": "viaggi",
+        "hint": "travel"
+    },
+    {
+        "rank": 474,
+        "word": "meno",
+        "hint": "less"
+    },
+    {
+        "rank": 475,
+        "word": "mattina",
+        "hint": "morning"
+    },
+    {
+        "rank": 476,
+        "word": "dieci",
+        "hint": "ten"
+    },
+    {
+        "rank": 477,
+        "word": "semplice",
+        "hint": "simple"
+    },
+    {
+        "rank": 478,
+        "word": "alcuni",
+        "hint": "several"
+    },
+    {
+        "rank": 479,
+        "word": "vocale",
+        "hint": "vowel"
+    },
+    {
+        "rank": 480,
+        "word": "verso",
+        "hint": "toward"
+    },
+    {
+        "rank": 481,
+        "word": "guerra",
+        "hint": "war"
+    },
+    {
+        "rank": 482,
+        "word": "porre",
+        "hint": "lay"
+    },
+    {
+        "rank": 483,
+        "word": "contro",
+        "hint": "against"
+    },
+    {
+        "rank": 484,
+        "word": "modello",
+        "hint": "pattern"
+    },
+    {
+        "rank": 485,
+        "word": "lento",
+        "hint": "slow"
+    },
+    {
+        "rank": 486,
+        "word": "centro",
+        "hint": "center"
+    },
+    {
+        "rank": 487,
+        "word": "amore",
+        "hint": "love"
+    },
+    {
+        "rank": 488,
+        "word": "persona",
+        "hint": "person"
+    },
+    {
+        "rank": 489,
+        "word": "soldi",
+        "hint": "money"
+    },
+    {
+        "rank": 490,
+        "word": "servire",
+        "hint": "serve"
+    },
+    {
+        "rank": 491,
+        "word": "apparire",
+        "hint": "appear"
+    },
+    {
+        "rank": 492,
+        "word": "strada",
+        "hint": "road"
+    },
+    {
+        "rank": 493,
+        "word": "mappa",
+        "hint": "map"
+    },
+    {
+        "rank": 494,
+        "word": "pioggia",
+        "hint": "rain"
+    },
+    {
+        "rank": 495,
+        "word": "regola",
+        "hint": "rule"
+    },
+    {
+        "rank": 496,
+        "word": "governare",
+        "hint": "govern"
+    },
+    {
+        "rank": 497,
+        "word": "tirare",
+        "hint": "pull"
+    },
+    {
+        "rank": 498,
+        "word": "freddo",
+        "hint": "cold"
+    },
+    {
+        "rank": 499,
+        "word": "avviso",
+        "hint": "notice"
+    },
+    {
+        "rank": 500,
+        "word": "voce",
+        "hint": "voice"
+    },
+    {
+        "rank": 501,
+        "word": "energia",
+        "hint": "energy"
+    },
+    {
+        "rank": 502,
+        "word": "caccia",
+        "hint": "hunt"
+    },
+    {
+        "rank": 503,
+        "word": "probabile",
+        "hint": "probable"
+    },
+    {
+        "rank": 504,
+        "word": "letto",
+        "hint": "bed"
+    },
+    {
+        "rank": 505,
+        "word": "fratello",
+        "hint": "brother"
+    },
+    {
+        "rank": 506,
+        "word": "uovo",
+        "hint": "egg"
+    },
+    {
+        "rank": 507,
+        "word": "giro",
+        "hint": "ride"
+    },
+    {
+        "rank": 508,
+        "word": "cella",
+        "hint": "cell"
+    },
+    {
+        "rank": 509,
+        "word": "credere",
+        "hint": "believe"
+    },
+    {
+        "rank": 510,
+        "word": "forse",
+        "hint": "perhaps"
+    },
+    {
+        "rank": 511,
+        "word": "scegliere",
+        "hint": "pick"
+    },
+    {
+        "rank": 512,
+        "word": "improvviso",
+        "hint": "sudden"
+    },
+    {
+        "rank": 513,
+        "word": "contare",
+        "hint": "count"
+    },
+    {
+        "rank": 514,
+        "word": "piazza",
+        "hint": "square"
+    },
+    {
+        "rank": 515,
+        "word": "motivo",
+        "hint": "reason"
+    },
+    {
+        "rank": 516,
+        "word": "lunghezza",
+        "hint": "length"
+    },
+    {
+        "rank": 517,
+        "word": "rappresentare",
+        "hint": "represent"
+    },
+    {
+        "rank": 518,
+        "word": "arte",
+        "hint": "art"
+    },
+    {
+        "rank": 519,
+        "word": "soggetto",
+        "hint": "subject"
+    },
+    {
+        "rank": 520,
+        "word": "regione",
+        "hint": "region"
+    },
+    {
+        "rank": 521,
+        "word": "dimensione",
+        "hint": "size"
+    },
+    {
+        "rank": 522,
+        "word": "variare",
+        "hint": "vary"
+    },
+    {
+        "rank": 523,
+        "word": "risolvere",
+        "hint": "settle"
+    },
+    {
+        "rank": 524,
+        "word": "parlare",
+        "hint": "speak"
+    },
+    {
+        "rank": 525,
+        "word": "peso",
+        "hint": "weight"
+    },
+    {
+        "rank": 526,
+        "word": "generale",
+        "hint": "general"
+    },
+    {
+        "rank": 527,
+        "word": "ghiaccio",
+        "hint": "ice"
+    },
+    {
+        "rank": 528,
+        "word": "materia",
+        "hint": "matter"
+    },
+    {
+        "rank": 529,
+        "word": "cerchio",
+        "hint": "circle"
+    },
+    {
+        "rank": 530,
+        "word": "coppia",
+        "hint": "pair"
+    },
+    {
+        "rank": 531,
+        "word": "includere",
+        "hint": "include"
+    },
+    {
+        "rank": 532,
+        "word": "divide",
+        "hint": "divide"
+    },
+    {
+        "rank": 533,
+        "word": "sillaba",
+        "hint": "syllable"
+    },
+    {
+        "rank": 534,
+        "word": "feltro",
+        "hint": "felt"
+    },
+    {
+        "rank": 535,
+        "word": "grande",
+        "hint": "grand"
+    },
+    {
+        "rank": 536,
+        "word": "palla",
+        "hint": "ball"
+    },
+    {
+        "rank": 537,
+        "word": "ancora",
+        "hint": "yet"
+    },
+    {
+        "rank": 538,
+        "word": "onda",
+        "hint": "wave"
+    },
+    {
+        "rank": 539,
+        "word": "cadere",
+        "hint": "drop"
+    },
+    {
+        "rank": 540,
+        "word": "cuore",
+        "hint": "heart"
+    },
+    {
+        "rank": 541,
+        "word": "am",
+        "hint": "am"
+    },
+    {
+        "rank": 542,
+        "word": "presente",
+        "hint": "present"
+    },
+    {
+        "rank": 543,
+        "word": "pesante",
+        "hint": "heavy"
+    },
+    {
+        "rank": 544,
+        "word": "danza",
+        "hint": "dance"
+    },
+    {
+        "rank": 545,
+        "word": "motore",
+        "hint": "engine"
+    },
+    {
+        "rank": 546,
+        "word": "posizione",
+        "hint": "position"
+    },
+    {
+        "rank": 547,
+        "word": "braccio",
+        "hint": "arm"
+    },
+    {
+        "rank": 548,
+        "word": "ampio",
+        "hint": "wide"
+    },
+    {
+        "rank": 549,
+        "word": "vela",
+        "hint": "sail"
+    },
+    {
+        "rank": 550,
+        "word": "materiale",
+        "hint": "material"
+    },
+    {
+        "rank": 551,
+        "word": "frazione",
+        "hint": "fraction"
+    },
+    {
+        "rank": 552,
+        "word": "foresta",
+        "hint": "forest"
+    },
+    {
+        "rank": 553,
+        "word": "sedersi",
+        "hint": "sit"
+    },
+    {
+        "rank": 554,
+        "word": "gara",
+        "hint": "race"
+    },
+    {
+        "rank": 555,
+        "word": "finestra",
+        "hint": "window"
+    },
+    {
+        "rank": 556,
+        "word": "negozio",
+        "hint": "store"
+    },
+    {
+        "rank": 557,
+        "word": "estate",
+        "hint": "summer"
+    },
+    {
+        "rank": 558,
+        "word": "treno",
+        "hint": "train"
+    },
+    {
+        "rank": 559,
+        "word": "sonno",
+        "hint": "sleep"
+    },
+    {
+        "rank": 560,
+        "word": "dimostrare",
+        "hint": "prove"
+    },
+    {
+        "rank": 561,
+        "word": "solitario",
+        "hint": "lone"
+    },
+    {
+        "rank": 562,
+        "word": "gamba",
+        "hint": "leg"
+    },
+    {
+        "rank": 563,
+        "word": "esercizio",
+        "hint": "exercise"
+    },
+    {
+        "rank": 564,
+        "word": "muro",
+        "hint": "wall"
+    },
+    {
+        "rank": 565,
+        "word": "prendere",
+        "hint": "catch"
+    },
+    {
+        "rank": 566,
+        "word": "monte",
+        "hint": "mount"
+    },
+    {
+        "rank": 567,
+        "word": "desiderio",
+        "hint": "wish"
+    },
+    {
+        "rank": 568,
+        "word": "cielo",
+        "hint": "sky"
+    },
+    {
+        "rank": 569,
+        "word": "pensione",
+        "hint": "board"
+    },
+    {
+        "rank": 570,
+        "word": "gioia",
+        "hint": "joy"
+    },
+    {
+        "rank": 571,
+        "word": "inverno",
+        "hint": "winter"
+    },
+    {
+        "rank": 572,
+        "word": "sat",
+        "hint": "sat"
+    },
+    {
+        "rank": 573,
+        "word": "scritto",
+        "hint": "written"
+    },
+    {
+        "rank": 574,
+        "word": "selvaggio",
+        "hint": "wild"
+    },
+    {
+        "rank": 575,
+        "word": "strumento",
+        "hint": "instrument"
+    },
+    {
+        "rank": 576,
+        "word": "tenere",
+        "hint": "kept"
+    },
+    {
+        "rank": 577,
+        "word": "vetro",
+        "hint": "glass"
+    },
+    {
+        "rank": 578,
+        "word": "erba",
+        "hint": "grass"
+    },
+    {
+        "rank": 579,
+        "word": "mucca",
+        "hint": "cow"
+    },
+    {
+        "rank": 580,
+        "word": "lavoro",
+        "hint": "job"
+    },
+    {
+        "rank": 581,
+        "word": "bordo",
+        "hint": "edge"
+    },
+    {
+        "rank": 582,
+        "word": "segno",
+        "hint": "sign"
+    },
+    {
+        "rank": 583,
+        "word": "visita",
+        "hint": "visit"
+    },
+    {
+        "rank": 584,
+        "word": "passato",
+        "hint": "past"
+    },
+    {
+        "rank": 585,
+        "word": "morbido",
+        "hint": "soft"
+    },
+    {
+        "rank": 586,
+        "word": "divertimento",
+        "hint": "fun"
+    },
+    {
+        "rank": 587,
+        "word": "luminoso",
+        "hint": "bright"
+    },
+    {
+        "rank": 588,
+        "word": "gas",
+        "hint": "gas"
+    },
+    {
+        "rank": 589,
+        "word": "tempo",
+        "hint": "weather"
+    },
+    {
+        "rank": 590,
+        "word": "mese",
+        "hint": "month"
+    },
+    {
+        "rank": 591,
+        "word": "milione",
+        "hint": "million"
+    },
+    {
+        "rank": 592,
+        "word": "sopportare",
+        "hint": "bear"
+    },
+    {
+        "rank": 593,
+        "word": "finitura",
+        "hint": "finish"
+    },
+    {
+        "rank": 594,
+        "word": "felice",
+        "hint": "happy"
+    },
+    {
+        "rank": 595,
+        "word": "speranza",
+        "hint": "hope"
+    },
+    {
+        "rank": 596,
+        "word": "fiore",
+        "hint": "flower"
+    },
+    {
+        "rank": 597,
+        "word": "vestire",
+        "hint": "clothe"
+    },
+    {
+        "rank": 598,
+        "word": "strano",
+        "hint": "strange"
+    },
+    {
+        "rank": 599,
+        "word": "gone",
+        "hint": "gone"
+    },
+    {
+        "rank": 600,
+        "word": "commercio",
+        "hint": "trade"
+    },
+    {
+        "rank": 601,
+        "word": "melodia",
+        "hint": "melody"
+    },
+    {
+        "rank": 602,
+        "word": "viaggio",
+        "hint": "trip"
+    },
+    {
+        "rank": 603,
+        "word": "ufficio",
+        "hint": "office"
+    },
+    {
+        "rank": 604,
+        "word": "ricevere",
+        "hint": "receive"
+    },
+    {
+        "rank": 605,
+        "word": "fila",
+        "hint": "row"
+    },
+    {
+        "rank": 606,
+        "word": "bocca",
+        "hint": "mouth"
+    },
+    {
+        "rank": 607,
+        "word": "esatto",
+        "hint": "exact"
+    },
+    {
+        "rank": 608,
+        "word": "simbolo",
+        "hint": "symbol"
+    },
+    {
+        "rank": 609,
+        "word": "morire",
+        "hint": "die"
+    },
+    {
+        "rank": 610,
+        "word": "meno",
+        "hint": "least"
+    },
+    {
+        "rank": 611,
+        "word": "difficoltà",
+        "hint": "trouble"
+    },
+    {
+        "rank": 612,
+        "word": "shout",
+        "hint": "shout"
+    },
+    {
+        "rank": 613,
+        "word": "tranne",
+        "hint": "except"
+    },
+    {
+        "rank": 614,
+        "word": "ha scritto",
+        "hint": "wrote"
+    },
+    {
+        "rank": 615,
+        "word": "seme",
+        "hint": "seed"
+    },
+    {
+        "rank": 616,
+        "word": "tono",
+        "hint": "tone"
+    },
+    {
+        "rank": 617,
+        "word": "aderire",
+        "hint": "join"
+    },
+    {
+        "rank": 618,
+        "word": "suggerire",
+        "hint": "suggest"
+    },
+    {
+        "rank": 619,
+        "word": "pulito",
+        "hint": "clean"
+    },
+    {
+        "rank": 620,
+        "word": "pausa",
+        "hint": "break"
+    },
+    {
+        "rank": 621,
+        "word": "signora",
+        "hint": "lady"
+    },
+    {
+        "rank": 622,
+        "word": "cantiere",
+        "hint": "yard"
+    },
+    {
+        "rank": 623,
+        "word": "salire",
+        "hint": "rise"
+    },
+    {
+        "rank": 624,
+        "word": "male",
+        "hint": "bad"
+    },
+    {
+        "rank": 625,
+        "word": "colpo",
+        "hint": "blow"
+    },
+    {
+        "rank": 626,
+        "word": "olio",
+        "hint": "oil"
+    },
+    {
+        "rank": 627,
+        "word": "sangue",
+        "hint": "blood"
+    },
+    {
+        "rank": 628,
+        "word": "toccare",
+        "hint": "touch"
+    },
+    {
+        "rank": 629,
+        "word": "è cresciuto",
+        "hint": "grew"
+    },
+    {
+        "rank": 630,
+        "word": "cent",
+        "hint": "cent"
+    },
+    {
+        "rank": 631,
+        "word": "mescolare",
+        "hint": "mix"
+    },
+    {
+        "rank": 632,
+        "word": "team",
+        "hint": "team"
+    },
+    {
+        "rank": 633,
+        "word": "filo",
+        "hint": "wire"
+    },
+    {
+        "rank": 634,
+        "word": "costo",
+        "hint": "cost"
+    },
+    {
+        "rank": 635,
+        "word": "perso",
+        "hint": "lost"
+    },
+    {
+        "rank": 636,
+        "word": "marrone",
+        "hint": "brown"
+    },
+    {
+        "rank": 637,
+        "word": "indossare",
+        "hint": "wear"
+    },
+    {
+        "rank": 638,
+        "word": "giardino",
+        "hint": "garden"
+    },
+    {
+        "rank": 639,
+        "word": "pari",
+        "hint": "equal"
+    },
+    {
+        "rank": 640,
+        "word": "inviato",
+        "hint": "sent"
+    },
+    {
+        "rank": 641,
+        "word": "scegliere",
+        "hint": "choose"
+    },
+    {
+        "rank": 642,
+        "word": "caduto",
+        "hint": "fell"
+    },
+    {
+        "rank": 643,
+        "word": "adattarsi",
+        "hint": "fit"
+    },
+    {
+        "rank": 644,
+        "word": "flusso",
+        "hint": "flow"
+    },
+    {
+        "rank": 645,
+        "word": "fiera",
+        "hint": "fair"
+    },
+    {
+        "rank": 646,
+        "word": "banca",
+        "hint": "bank"
+    },
+    {
+        "rank": 647,
+        "word": "raccogliere",
+        "hint": "collect"
+    },
+    {
+        "rank": 648,
+        "word": "salvare",
+        "hint": "save"
+    },
+    {
+        "rank": 649,
+        "word": "controllo",
+        "hint": "control"
+    },
+    {
+        "rank": 650,
+        "word": "decimale",
+        "hint": "decimal"
+    },
+    {
+        "rank": 651,
+        "word": "orecchio",
+        "hint": "ear"
+    },
+    {
+        "rank": 652,
+        "word": "altro",
+        "hint": "else"
+    },
+    {
+        "rank": 653,
+        "word": "abbastanza",
+        "hint": "quite"
+    },
+    {
+        "rank": 654,
+        "word": "rotto",
+        "hint": "broke"
+    },
+    {
+        "rank": 655,
+        "word": "caso",
+        "hint": "case"
+    },
+    {
+        "rank": 656,
+        "word": "mezzo",
+        "hint": "middle"
+    },
+    {
+        "rank": 657,
+        "word": "uccidere",
+        "hint": "kill"
+    },
+    {
+        "rank": 658,
+        "word": "figlio",
+        "hint": "son"
+    },
+    {
+        "rank": 659,
+        "word": "lago",
+        "hint": "lake"
+    },
+    {
+        "rank": 660,
+        "word": "momento",
+        "hint": "moment"
+    },
+    {
+        "rank": 661,
+        "word": "scala",
+        "hint": "scale"
+    },
+    {
+        "rank": 662,
+        "word": "forte",
+        "hint": "loud"
+    },
+    {
+        "rank": 663,
+        "word": "primavera",
+        "hint": "spring"
+    },
+    {
+        "rank": 664,
+        "word": "osservare",
+        "hint": "observe"
+    },
+    {
+        "rank": 665,
+        "word": "bambino",
+        "hint": "child"
+    },
+    {
+        "rank": 666,
+        "word": "dritto",
+        "hint": "straight"
+    },
+    {
+        "rank": 667,
+        "word": "consonante",
+        "hint": "consonant"
+    },
+    {
+        "rank": 668,
+        "word": "nazione",
+        "hint": "nation"
+    },
+    {
+        "rank": 669,
+        "word": "dizionario",
+        "hint": "dictionary"
+    },
+    {
+        "rank": 670,
+        "word": "latte",
+        "hint": "milk"
+    },
+    {
+        "rank": 671,
+        "word": "velocità",
+        "hint": "speed"
+    },
+    {
+        "rank": 672,
+        "word": "metodo",
+        "hint": "method"
+    },
+    {
+        "rank": 673,
+        "word": "organo",
+        "hint": "organ"
+    },
+    {
+        "rank": 674,
+        "word": "pagare",
+        "hint": "pay"
+    },
+    {
+        "rank": 675,
+        "word": "età",
+        "hint": "age"
+    },
+    {
+        "rank": 676,
+        "word": "sezione",
+        "hint": "section"
+    },
+    {
+        "rank": 677,
+        "word": "vestito",
+        "hint": "dress"
+    },
+    {
+        "rank": 678,
+        "word": "nube",
+        "hint": "cloud"
+    },
+    {
+        "rank": 679,
+        "word": "sorpresa",
+        "hint": "surprise"
+    },
+    {
+        "rank": 680,
+        "word": "tranquillo",
+        "hint": "quiet"
+    },
+    {
+        "rank": 681,
+        "word": "pietra",
+        "hint": "stone"
+    },
+    {
+        "rank": 682,
+        "word": "piccolo",
+        "hint": "tiny"
+    },
+    {
+        "rank": 683,
+        "word": "salita",
+        "hint": "climb"
+    },
+    {
+        "rank": 684,
+        "word": "fresco",
+        "hint": "cool"
+    },
+    {
+        "rank": 685,
+        "word": "design",
+        "hint": "design"
+    },
+    {
+        "rank": 686,
+        "word": "povero",
+        "hint": "poor"
+    },
+    {
+        "rank": 687,
+        "word": "lotto",
+        "hint": "lot"
+    },
+    {
+        "rank": 688,
+        "word": "esperimento",
+        "hint": "experiment"
+    },
+    {
+        "rank": 689,
+        "word": "fondo",
+        "hint": "bottom"
+    },
+    {
+        "rank": 690,
+        "word": "chiave",
+        "hint": "key"
+    },
+    {
+        "rank": 691,
+        "word": "ferro",
+        "hint": "iron"
+    },
+    {
+        "rank": 692,
+        "word": "singolo",
+        "hint": "single"
+    },
+    {
+        "rank": 693,
+        "word": "bastone",
+        "hint": "stick"
+    },
+    {
+        "rank": 694,
+        "word": "appartamento",
+        "hint": "flat"
+    },
+    {
+        "rank": 695,
+        "word": "venti",
+        "hint": "twenty"
+    },
+    {
+        "rank": 696,
+        "word": "pelle",
+        "hint": "skin"
+    },
+    {
+        "rank": 697,
+        "word": "sorriso",
+        "hint": "smile"
+    },
+    {
+        "rank": 698,
+        "word": "piega",
+        "hint": "crease"
+    },
+    {
+        "rank": 699,
+        "word": "foro",
+        "hint": "hole"
+    },
+    {
+        "rank": 700,
+        "word": "salto",
+        "hint": "jump"
+    },
+    {
+        "rank": 701,
+        "word": "bambino",
+        "hint": "baby"
+    },
+    {
+        "rank": 702,
+        "word": "otto",
+        "hint": "eight"
+    },
+    {
+        "rank": 703,
+        "word": "villaggio",
+        "hint": "village"
+    },
+    {
+        "rank": 704,
+        "word": "si incontrano",
+        "hint": "meet"
+    },
+    {
+        "rank": 705,
+        "word": "radice",
+        "hint": "root"
+    },
+    {
+        "rank": 706,
+        "word": "acquistare",
+        "hint": "buy"
+    },
+    {
+        "rank": 707,
+        "word": "aumentare",
+        "hint": "raise"
+    },
+    {
+        "rank": 708,
+        "word": "risolvere",
+        "hint": "solve"
+    },
+    {
+        "rank": 709,
+        "word": "metallo",
+        "hint": "metal"
+    },
+    {
+        "rank": 710,
+        "word": "se",
+        "hint": "whether"
+    },
+    {
+        "rank": 711,
+        "word": "spingere",
+        "hint": "push"
+    },
+    {
+        "rank": 712,
+        "word": "sette",
+        "hint": "seven"
+    },
+    {
+        "rank": 713,
+        "word": "paragrafo",
+        "hint": "paragraph"
+    },
+    {
+        "rank": 714,
+        "word": "terzo",
+        "hint": "third"
+    },
+    {
+        "rank": 715,
+        "word": "deve",
+        "hint": "shall"
+    },
+    {
+        "rank": 716,
+        "word": "tenuto",
+        "hint": "held"
+    },
+    {
+        "rank": 717,
+        "word": "capelli",
+        "hint": "hair"
+    },
+    {
+        "rank": 718,
+        "word": "descrivere",
+        "hint": "describe"
+    },
+    {
+        "rank": 719,
+        "word": "cuoco",
+        "hint": "cook"
+    },
+    {
+        "rank": 720,
+        "word": "piano",
+        "hint": "floor"
+    },
+    {
+        "rank": 721,
+        "word": "o",
+        "hint": "either"
+    },
+    {
+        "rank": 722,
+        "word": "risultato",
+        "hint": "result"
+    },
+    {
+        "rank": 723,
+        "word": "bruciare",
+        "hint": "burn"
+    },
+    {
+        "rank": 724,
+        "word": "collina",
+        "hint": "hill"
+    },
+    {
+        "rank": 725,
+        "word": "sicuro",
+        "hint": "safe"
+    },
+    {
+        "rank": 726,
+        "word": "gatto",
+        "hint": "cat"
+    },
+    {
+        "rank": 727,
+        "word": "secolo",
+        "hint": "century"
+    },
+    {
+        "rank": 728,
+        "word": "considerare",
+        "hint": "consider"
+    },
+    {
+        "rank": 729,
+        "word": "tipo",
+        "hint": "type"
+    },
+    {
+        "rank": 730,
+        "word": "legge",
+        "hint": "law"
+    },
+    {
+        "rank": 731,
+        "word": "bit",
+        "hint": "bit"
+    },
+    {
+        "rank": 732,
+        "word": "costa",
+        "hint": "coast"
+    },
+    {
+        "rank": 733,
+        "word": "copia",
+        "hint": "copy"
+    },
+    {
+        "rank": 734,
+        "word": "frase",
+        "hint": "phrase"
+    },
+    {
+        "rank": 735,
+        "word": "silenzioso",
+        "hint": "silent"
+    },
+    {
+        "rank": 736,
+        "word": "alto",
+        "hint": "tall"
+    },
+    {
+        "rank": 737,
+        "word": "sabbia",
+        "hint": "sand"
+    },
+    {
+        "rank": 738,
+        "word": "suolo",
+        "hint": "soil"
+    },
+    {
+        "rank": 739,
+        "word": "rotolo",
+        "hint": "roll"
+    },
+    {
+        "rank": 740,
+        "word": "temperatura",
+        "hint": "temperature"
+    },
+    {
+        "rank": 741,
+        "word": "dito",
+        "hint": "finger"
+    },
+    {
+        "rank": 742,
+        "word": "industria",
+        "hint": "industry"
+    },
+    {
+        "rank": 743,
+        "word": "valore",
+        "hint": "value"
+    },
+    {
+        "rank": 744,
+        "word": "lotta",
+        "hint": "fight"
+    },
+    {
+        "rank": 745,
+        "word": "bugia",
+        "hint": "lie"
+    },
+    {
+        "rank": 746,
+        "word": "battere",
+        "hint": "beat"
+    },
+    {
+        "rank": 747,
+        "word": "eccitare",
+        "hint": "excite"
+    },
+    {
+        "rank": 748,
+        "word": "naturale",
+        "hint": "natural"
+    },
+    {
+        "rank": 749,
+        "word": "vista",
+        "hint": "view"
+    },
+    {
+        "rank": 750,
+        "word": "senso",
+        "hint": "sense"
+    },
+    {
+        "rank": 751,
+        "word": "capitale",
+        "hint": "capital"
+    },
+    {
+        "rank": 752,
+        "word": "non sarà",
+        "hint": "won’t"
+    },
+    {
+        "rank": 753,
+        "word": "sedia",
+        "hint": "chair"
+    },
+    {
+        "rank": 754,
+        "word": "pericolo",
+        "hint": "danger"
+    },
+    {
+        "rank": 755,
+        "word": "frutta",
+        "hint": "fruit"
+    },
+    {
+        "rank": 756,
+        "word": "ricco",
+        "hint": "rich"
+    },
+    {
+        "rank": 757,
+        "word": "spesso",
+        "hint": "thick"
+    },
+    {
+        "rank": 758,
+        "word": "soldato",
+        "hint": "soldier"
+    },
+    {
+        "rank": 759,
+        "word": "processo",
+        "hint": "process"
+    },
+    {
+        "rank": 760,
+        "word": "operare",
+        "hint": "operate"
+    },
+    {
+        "rank": 761,
+        "word": "pratica",
+        "hint": "practice"
+    },
+    {
+        "rank": 762,
+        "word": "separato",
+        "hint": "separate"
+    },
+    {
+        "rank": 763,
+        "word": "difficile",
+        "hint": "difficult"
+    },
+    {
+        "rank": 764,
+        "word": "medico",
+        "hint": "doctor"
+    },
+    {
+        "rank": 765,
+        "word": "per favore",
+        "hint": "please"
+    },
+    {
+        "rank": 766,
+        "word": "proteggere",
+        "hint": "protect"
+    },
+    {
+        "rank": 767,
+        "word": "mezzogiorno",
+        "hint": "noon"
+    },
+    {
+        "rank": 768,
+        "word": "raccolto",
+        "hint": "crop"
+    },
+    {
+        "rank": 769,
+        "word": "moderno",
+        "hint": "modern"
+    },
+    {
+        "rank": 770,
+        "word": "elemento",
+        "hint": "element"
+    },
+    {
+        "rank": 771,
+        "word": "colpire",
+        "hint": "hit"
+    },
+    {
+        "rank": 772,
+        "word": "studente",
+        "hint": "student"
+    },
+    {
+        "rank": 773,
+        "word": "angolo",
+        "hint": "corner"
+    },
+    {
+        "rank": 774,
+        "word": "partito",
+        "hint": "party"
+    },
+    {
+        "rank": 775,
+        "word": "fornitura",
+        "hint": "supply"
+    },
+    {
+        "rank": 776,
+        "word": "la cui",
+        "hint": "whose"
+    },
+    {
+        "rank": 777,
+        "word": "individuare",
+        "hint": "locate"
+    },
+    {
+        "rank": 778,
+        "word": "anello",
+        "hint": "ring"
+    },
+    {
+        "rank": 779,
+        "word": "carattere",
+        "hint": "character"
+    },
+    {
+        "rank": 780,
+        "word": "insetto",
+        "hint": "insect"
+    },
+    {
+        "rank": 781,
+        "word": "catturato",
+        "hint": "caught"
+    },
+    {
+        "rank": 782,
+        "word": "periodo",
+        "hint": "period"
+    },
+    {
+        "rank": 783,
+        "word": "indicare",
+        "hint": "indicate"
+    },
+    {
+        "rank": 784,
+        "word": "radio",
+        "hint": "radio"
+    },
+    {
+        "rank": 785,
+        "word": "raggio",
+        "hint": "spoke"
+    },
+    {
+        "rank": 786,
+        "word": "atomo",
+        "hint": "atom"
+    },
+    {
+        "rank": 787,
+        "word": "umano",
+        "hint": "human"
+    },
+    {
+        "rank": 788,
+        "word": "storia",
+        "hint": "history"
+    },
+    {
+        "rank": 789,
+        "word": "effetto",
+        "hint": "effect"
+    },
+    {
+        "rank": 790,
+        "word": "elettrico",
+        "hint": "electric"
+    },
+    {
+        "rank": 791,
+        "word": "aspettare",
+        "hint": "expect"
+    },
+    {
+        "rank": 792,
+        "word": "osso",
+        "hint": "bone"
+    },
+    {
+        "rank": 793,
+        "word": "ferrovia",
+        "hint": "rail"
+    },
+    {
+        "rank": 794,
+        "word": "immaginare",
+        "hint": "imagine"
+    },
+    {
+        "rank": 795,
+        "word": "fornire",
+        "hint": "provide"
+    },
+    {
+        "rank": 796,
+        "word": "concordare",
+        "hint": "agree"
+    },
+    {
+        "rank": 797,
+        "word": "così",
+        "hint": "thus"
+    },
+    {
+        "rank": 798,
+        "word": "dolce",
+        "hint": "gentle"
+    },
+    {
+        "rank": 799,
+        "word": "donna",
+        "hint": "woman"
+    },
+    {
+        "rank": 800,
+        "word": "capitano",
+        "hint": "captain"
+    },
+    {
+        "rank": 801,
+        "word": "indovinare",
+        "hint": "guess"
+    },
+    {
+        "rank": 802,
+        "word": "necessario",
+        "hint": "necessary"
+    },
+    {
+        "rank": 803,
+        "word": "tagliente",
+        "hint": "sharp"
+    },
+    {
+        "rank": 804,
+        "word": "ala",
+        "hint": "wing"
+    },
+    {
+        "rank": 805,
+        "word": "creare",
+        "hint": "create"
+    },
+    {
+        "rank": 806,
+        "word": "prossimo",
+        "hint": "neighbor"
+    },
+    {
+        "rank": 807,
+        "word": "lavaggio",
+        "hint": "wash"
+    },
+    {
+        "rank": 808,
+        "word": "pipistrello",
+        "hint": "bat"
+    },
+    {
+        "rank": 809,
+        "word": "piuttosto",
+        "hint": "rather"
+    },
+    {
+        "rank": 810,
+        "word": "folla",
+        "hint": "crowd"
+    },
+    {
+        "rank": 811,
+        "word": "mais",
+        "hint": "corn"
+    },
+    {
+        "rank": 812,
+        "word": "confrontare",
+        "hint": "compare"
+    },
+    {
+        "rank": 813,
+        "word": "poesia",
+        "hint": "poem"
+    },
+    {
+        "rank": 814,
+        "word": "stringa",
+        "hint": "string"
+    },
+    {
+        "rank": 815,
+        "word": "campana",
+        "hint": "bell"
+    },
+    {
+        "rank": 816,
+        "word": "dipendere",
+        "hint": "depend"
+    },
+    {
+        "rank": 817,
+        "word": "carne",
+        "hint": "meat"
+    },
+    {
+        "rank": 818,
+        "word": "strofinare",
+        "hint": "rub"
+    },
+    {
+        "rank": 819,
+        "word": "tubo",
+        "hint": "tube"
+    },
+    {
+        "rank": 820,
+        "word": "famoso",
+        "hint": "famous"
+    },
+    {
+        "rank": 921,
+        "word": "dollaro",
+        "hint": "dollar"
+    },
+    {
+        "rank": 822,
+        "word": "ruscello",
+        "hint": "stream"
+    },
+    {
+        "rank": 823,
+        "word": "paura",
+        "hint": "fear"
+    },
+    {
+        "rank": 284,
+        "word": "vista",
+        "hint": "sight"
+    },
+    {
+        "rank": 825,
+        "word": "sottile",
+        "hint": "thin"
+    },
+    {
+        "rank": 826,
+        "word": "triangolo",
+        "hint": "triangle"
+    },
+    {
+        "rank": 827,
+        "word": "pianeta",
+        "hint": "planet"
+    },
+    {
+        "rank": 828,
+        "word": "fretta",
+        "hint": "hurry"
+    },
+    {
+        "rank": 829,
+        "word": "capo",
+        "hint": "chief"
+    },
+    {
+        "rank": 830,
+        "word": "colonia",
+        "hint": "colony"
+    },
+    {
+        "rank": 831,
+        "word": "orologio",
+        "hint": "clock"
+    },
+    {
+        "rank": 832,
+        "word": "miniera",
+        "hint": "mine"
+    },
+    {
+        "rank": 833,
+        "word": "cravatta",
+        "hint": "tie"
+    },
+    {
+        "rank": 834,
+        "word": "inserire",
+        "hint": "enter"
+    },
+    {
+        "rank": 835,
+        "word": "maggiore",
+        "hint": "major"
+    },
+    {
+        "rank": 836,
+        "word": "fresco",
+        "hint": "fresh"
+    },
+    {
+        "rank": 837,
+        "word": "ricerca",
+        "hint": "search"
+    },
+    {
+        "rank": 838,
+        "word": "inviare",
+        "hint": "send"
+    },
+    {
+        "rank": 839,
+        "word": "giallo",
+        "hint": "yellow"
+    },
+    {
+        "rank": 840,
+        "word": "pistola",
+        "hint": "gun"
+    },
+    {
+        "rank": 841,
+        "word": "consentire",
+        "hint": "allow"
+    },
+    {
+        "rank": 842,
+        "word": "stampa",
+        "hint": "print"
+    },
+    {
+        "rank": 843,
+        "word": "morto",
+        "hint": "dead"
+    },
+    {
+        "rank": 844,
+        "word": "spot",
+        "hint": "spot"
+    },
+    {
+        "rank": 845,
+        "word": "deserto",
+        "hint": "desert"
+    },
+    {
+        "rank": 846,
+        "word": "tuta",
+        "hint": "suit"
+    },
+    {
+        "rank": 847,
+        "word": "corrente",
+        "hint": "current"
+    },
+    {
+        "rank": 848,
+        "word": "ascensore",
+        "hint": "lift"
+    },
+    {
+        "rank": 840,
+        "word": "rosa",
+        "hint": "rose"
+    },
+    {
+        "rank": 850,
+        "word": "arrivare",
+        "hint": "arrive"
+    },
+    {
+        "rank": 851,
+        "word": "master",
+        "hint": "master"
+    },
+    {
+        "rank": 852,
+        "word": "pista",
+        "hint": "track"
+    },
+    {
+        "rank": 853,
+        "word": "genitore",
+        "hint": "parent"
+    },
+    {
+        "rank": 854,
+        "word": "riva",
+        "hint": "shore"
+    },
+    {
+        "rank": 855,
+        "word": "divisione",
+        "hint": "division"
+    },
+    {
+        "rank": 856,
+        "word": "foglio",
+        "hint": "sheet"
+    },
+    {
+        "rank": 857,
+        "word": "sostanza",
+        "hint": "substance"
+    },
+    {
+        "rank": 858,
+        "word": "favorire",
+        "hint": "favor"
+    },
+    {
+        "rank": 859,
+        "word": "collegare",
+        "hint": "connect"
+    },
+    {
+        "rank": 860,
+        "word": "Messaggio",
+        "hint": "post"
+    },
+    {
+        "rank": 861,
+        "word": "spendere",
+        "hint": "spend"
+    },
+    {
+        "rank": 862,
+        "word": "accordo",
+        "hint": "chord"
+    },
+    {
+        "rank": 863,
+        "word": "grasso",
+        "hint": "fat"
+    },
+    {
+        "rank": 864,
+        "word": "felice",
+        "hint": "glad"
+    },
+    {
+        "rank": 865,
+        "word": "originale",
+        "hint": "original"
+    },
+    {
+        "rank": 866,
+        "word": "quota",
+        "hint": "share"
+    },
+    {
+        "rank": 867,
+        "word": "stazione",
+        "hint": "station"
+    },
+    {
+        "rank": 868,
+        "word": "papà",
+        "hint": "dad"
+    },
+    {
+        "rank": 869,
+        "word": "pane",
+        "hint": "bread"
+    },
+    {
+        "rank": 870,
+        "word": "carica",
+        "hint": "charge"
+    },
+    {
+        "rank": 871,
+        "word": "corretto",
+        "hint": "proper"
+    },
+    {
+        "rank": 872,
+        "word": "bar",
+        "hint": "bar"
+    },
+    {
+        "rank": 873,
+        "word": "offerta",
+        "hint": "offer"
+    },
+    {
+        "rank": 874,
+        "word": "segmento",
+        "hint": "segment"
+    },
+    {
+        "rank": 875,
+        "word": "schiavo",
+        "hint": "slave"
+    },
+    {
+        "rank": 876,
+        "word": "anatra",
+        "hint": "duck"
+    },
+    {
+        "rank": 877,
+        "word": "immediato",
+        "hint": "instant"
+    },
+    {
+        "rank": 878,
+        "word": "mercato",
+        "hint": "market"
+    },
+    {
+        "rank": 879,
+        "word": "grado",
+        "hint": "degree"
+    },
+    {
+        "rank": 880,
+        "word": "popolare",
+        "hint": "populate"
+    },
+    {
+        "rank": 881,
+        "word": "pulcino",
+        "hint": "chick"
+    },
+    {
+        "rank": 882,
+        "word": "caro",
+        "hint": "dear"
+    },
+    {
+        "rank": 883,
+        "word": "nemico",
+        "hint": "enemy"
+    },
+    {
+        "rank": 884,
+        "word": "rispondere",
+        "hint": "reply"
+    },
+    {
+        "rank": 885,
+        "word": "bevanda",
+        "hint": "drink"
+    },
+    {
+        "rank": 886,
+        "word": "verificarsi",
+        "hint": "occur"
+    },
+    {
+        "rank": 887,
+        "word": "supporto",
+        "hint": "support"
+    },
+    {
+        "rank": 888,
+        "word": "discorso",
+        "hint": "speech"
+    },
+    {
+        "rank": 889,
+        "word": "natura",
+        "hint": "nature"
+    },
+    {
+        "rank": 890,
+        "word": "gamma",
+        "hint": "range"
+    },
+    {
+        "rank": 891,
+        "word": "vapore",
+        "hint": "steam"
+    },
+    {
+        "rank": 892,
+        "word": "moto",
+        "hint": "motion"
+    },
+    {
+        "rank": 893,
+        "word": "sentiero",
+        "hint": "path"
+    },
+    {
+        "rank": 894,
+        "word": "liquido",
+        "hint": "liquid"
+    },
+    {
+        "rank": 895,
+        "word": "log",
+        "hint": "log"
+    },
+    {
+        "rank": 896,
+        "word": "significava",
+        "hint": "meant"
+    },
+    {
+        "rank": 897,
+        "word": "quoziente",
+        "hint": "quotient"
+    },
+    {
+        "rank": 898,
+        "word": "denti",
+        "hint": "teeth"
+    },
+    {
+        "rank": 899,
+        "word": "guscio",
+        "hint": "shell"
+    },
+    {
+        "rank": 900,
+        "word": "collo",
+        "hint": "neck"
+    },
+    {
+        "rank": 901,
+        "word": "ossigeno",
+        "hint": "oxygen"
+    },
+    {
+        "rank": 902,
+        "word": "zucchero",
+        "hint": "sugar"
+    },
+    {
+        "rank": 903,
+        "word": "morte",
+        "hint": "death"
+    },
+    {
+        "rank": 904,
+        "word": "piuttosto",
+        "hint": "pretty"
+    },
+    {
+        "rank": 905,
+        "word": "abilità",
+        "hint": "skill"
+    },
+    {
+        "rank": 906,
+        "word": "donne",
+        "hint": "women"
+    },
+    {
+        "rank": 907,
+        "word": "stagione",
+        "hint": "season"
+    },
+    {
+        "rank": 908,
+        "word": "soluzione",
+        "hint": "solution"
+    },
+    {
+        "rank": 909,
+        "word": "magnete",
+        "hint": "magnet"
+    },
+    {
+        "rank": 910,
+        "word": "argento",
+        "hint": "silver"
+    },
+    {
+        "rank": 911,
+        "word": "grazie",
+        "hint": "thank"
+    },
+    {
+        "rank": 912,
+        "word": "ramo",
+        "hint": "branch"
+    },
+    {
+        "rank": 913,
+        "word": "partita",
+        "hint": "match"
+    },
+    {
+        "rank": 914,
+        "word": "suffisso",
+        "hint": "suffix"
+    },
+    {
+        "rank": 915,
+        "word": "particolarmente",
+        "hint": "especially"
+    },
+    {
+        "rank": 916,
+        "word": "fico",
+        "hint": "fig"
+    },
+    {
+        "rank": 917,
+        "word": "impaurito",
+        "hint": "afraid"
+    },
+    {
+        "rank": 918,
+        "word": "enorme",
+        "hint": "huge"
+    },
+    {
+        "rank": 919,
+        "word": "sorella",
+        "hint": "sister"
+    },
+    {
+        "rank": 920,
+        "word": "acciaio",
+        "hint": "steel"
+    },
+    {
+        "rank": 921,
+        "word": "discutere",
+        "hint": "discuss"
+    },
+    {
+        "rank": 922,
+        "word": "avanti",
+        "hint": "forward"
+    },
+    {
+        "rank": 923,
+        "word": "simile",
+        "hint": "similar"
+    },
+    {
+        "rank": 924,
+        "word": "guidare",
+        "hint": "guide"
+    },
+    {
+        "rank": 925,
+        "word": "esperienza",
+        "hint": "experience"
+    },
+    {
+        "rank": 926,
+        "word": "punteggio",
+        "hint": "score"
+    },
+    {
+        "rank": 927,
+        "word": "mela",
+        "hint": "apple"
+    },
+    {
+        "rank": 928,
+        "word": "comprato",
+        "hint": "bought"
+    },
+    {
+        "rank": 929,
+        "word": "portato",
+        "hint": "led"
+    },
+    {
+        "rank": 930,
+        "word": "pece",
+        "hint": "pitch"
+    },
+    {
+        "rank": 931,
+        "word": "cappotto",
+        "hint": "coat"
+    },
+    {
+        "rank": 932,
+        "word": "massa",
+        "hint": "mass"
+    },
+    {
+        "rank": 933,
+        "word": "scheda",
+        "hint": "card"
+    },
+    {
+        "rank": 934,
+        "word": "banda",
+        "hint": "band"
+    },
+    {
+        "rank": 935,
+        "word": "corda",
+        "hint": "rope"
+    },
+    {
+        "rank": 936,
+        "word": "slittamento",
+        "hint": "slip"
+    },
+    {
+        "rank": 937,
+        "word": "vittoria",
+        "hint": "win"
+    },
+    {
+        "rank": 938,
+        "word": "sognare",
+        "hint": "dream"
+    },
+    {
+        "rank": 939,
+        "word": "sera",
+        "hint": "evening"
+    },
+    {
+        "rank": 940,
+        "word": "condizione",
+        "hint": "condition"
+    },
+    {
+        "rank": 941,
+        "word": "alimentazione",
+        "hint": "feed"
+    },
+    {
+        "rank": 942,
+        "word": "strumento",
+        "hint": "tool"
+    },
+    {
+        "rank": 943,
+        "word": "totale",
+        "hint": "total"
+    },
+    {
+        "rank": 944,
+        "word": "di base",
+        "hint": "basic"
+    },
+    {
+        "rank": 945,
+        "word": "odore",
+        "hint": "smell"
+    },
+    {
+        "rank": 946,
+        "word": "valle",
+        "hint": "valley"
+    },
+    {
+        "rank": 947,
+        "word": "né",
+        "hint": "nor"
+    },
+    {
+        "rank": 948,
+        "word": "doppio",
+        "hint": "double"
+    },
+    {
+        "rank": 949,
+        "word": "sedile",
+        "hint": "seat"
+    },
+    {
+        "rank": 950,
+        "word": "continuare",
+        "hint": "continue"
+    },
+    {
+        "rank": 951,
+        "word": "blocco",
+        "hint": "block"
+    },
+    {
+        "rank": 952,
+        "word": "grafico",
+        "hint": "chart"
+    },
+    {
+        "rank": 953,
+        "word": "cappello",
+        "hint": "hat"
+    },
+    {
+        "rank": 954,
+        "word": "vendere",
+        "hint": "sell"
+    },
+    {
+        "rank": 955,
+        "word": "successo",
+        "hint": "success"
+    },
+    {
+        "rank": 956,
+        "word": "azienda",
+        "hint": "company"
+    },
+    {
+        "rank": 957,
+        "word": "sottrarre",
+        "hint": "subtract"
+    },
+    {
+        "rank": 958,
+        "word": "evento",
+        "hint": "event"
+    },
+    {
+        "rank": 959,
+        "word": "particolare",
+        "hint": "particular"
+    },
+    {
+        "rank": 960,
+        "word": "affare",
+        "hint": "deal"
+    },
+    {
+        "rank": 961,
+        "word": "nuoto",
+        "hint": "swim"
+    },
+    {
+        "rank": 962,
+        "word": "termine",
+        "hint": "term"
+    },
+    {
+        "rank": 963,
+        "word": "opposto",
+        "hint": "opposite"
+    },
+    {
+        "rank": 964,
+        "word": "moglie",
+        "hint": "wife"
+    },
+    {
+        "rank": 965,
+        "word": "scarpa",
+        "hint": "shoe"
+    },
+    {
+        "rank": 966,
+        "word": "spalla",
+        "hint": "shoulder"
+    },
+    {
+        "rank": 967,
+        "word": "spread",
+        "hint": "spread"
+    },
+    {
+        "rank": 968,
+        "word": "organizzare",
+        "hint": "arrange"
+    },
+    {
+        "rank": 969,
+        "word": "campo",
+        "hint": "camp"
+    },
+    {
+        "rank": 970,
+        "word": "inventare",
+        "hint": "invent"
+    },
+    {
+        "rank": 971,
+        "word": "cotone",
+        "hint": "cotton"
+    },
+    {
+        "rank": 972,
+        "word": "nascita",
+        "hint": "born"
+    },
+    {
+        "rank": 973,
+        "word": "determinare",
+        "hint": "determine"
+    },
+    {
+        "rank": 974,
+        "word": "quarto di gallone",
+        "hint": "quart"
+    },
+    {
+        "rank": 975,
+        "word": "nove",
+        "hint": "nine"
+    },
+    {
+        "rank": 976,
+        "word": "camion",
+        "hint": "truck"
+    },
+    {
+        "rank": 977,
+        "word": "rumore",
+        "hint": "noise"
+    },
+    {
+        "rank": 978,
+        "word": "livello",
+        "hint": "level"
+    },
+    {
+        "rank": 979,
+        "word": "possibilità",
+        "hint": "chance"
+    },
+    {
+        "rank": 980,
+        "word": "raccogliere",
+        "hint": "gather"
+    },
+    {
+        "rank": 981,
+        "word": "negozio",
+        "hint": "shop"
+    },
+    {
+        "rank": 982,
+        "word": "tratto",
+        "hint": "stretch"
+    },
+    {
+        "rank": 983,
+        "word": "gettare",
+        "hint": "throw"
+    },
+    {
+        "rank": 984,
+        "word": "shine",
+        "hint": "shine"
+    },
+    {
+        "rank": 985,
+        "word": "proprietà",
+        "hint": "property"
+    },
+    {
+        "rank": 986,
+        "word": "colonna",
+        "hint": "column"
+    },
+    {
+        "rank": 987,
+        "word": "molecola",
+        "hint": "molecule"
+    },
+    {
+        "rank": 988,
+        "word": "selezionare",
+        "hint": "select"
+    },
+    {
+        "rank": 989,
+        "word": "sbagliato",
+        "hint": "wrong"
+    },
+    {
+        "rank": 990,
+        "word": "grigio",
+        "hint": "gray"
+    },
+    {
+        "rank": 991,
+        "word": "ripetizione",
+        "hint": "repeat"
+    },
+    {
+        "rank": 992,
+        "word": "richiedere",
+        "hint": "require"
+    },
+    {
+        "rank": 993,
+        "word": "ampio",
+        "hint": "broad"
+    },
+    {
+        "rank": 994,
+        "word": "preparare",
+        "hint": "prepare"
+    },
+    {
+        "rank": 995,
+        "word": "sale",
+        "hint": "salt"
+    },
+    {
+        "rank": 996,
+        "word": "naso",
+        "hint": "nose"
+    },
+    {
+        "rank": 997,
+        "word": "plurale",
+        "hint": "plural"
+    },
+    {
+        "rank": 998,
+        "word": "rabbia",
+        "hint": "anger"
+    },
+    {
+        "rank": 999,
+        "word": "richiesta",
+        "hint": "claim"
+    },
+    {
+        "rank": 1000,
+        "word": "continente",
+        "hint": "continent"
+    }
+]
