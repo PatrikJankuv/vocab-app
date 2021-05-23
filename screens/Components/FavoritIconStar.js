@@ -18,7 +18,7 @@ export function FavoriteIconStar({ size, id, favorite_prop, db }) {
 
   return (
     <View style={{ flexDirection: "row" }}>
-      <TouchableOpacity onPress={changeFavoriteState}>
+      <TouchableOpacity onPress={changeFavoriteState} style={{ padding: 10 }}>
         {favorite === 1 ? (
           <Ionicons name={"ios-star-sharp"} size={size} />
         ) : (

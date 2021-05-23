@@ -4,6 +4,6 @@ import { WordsFlatList } from "./Components/WordsFlatList";
 
 const db = openConnection();
 
-export function HomeScreen() {
-  return <WordsFlatList database={db}></WordsFlatList>;
+export function FavoriteScreen() {
+  return <WordsFlatList database={db} favorite={true}></WordsFlatList>;
 }

@@ -26,7 +26,7 @@ export function initiateDatabase(db) {
   console.log("trying to store words");
 }
 
-export const allWords = (db, set_array) => {
+export const allExploredWords = (db, set_array) => {
   db.transaction((tx) => {
     tx.executeSql(
       "select * from Word where explored = 0",
@@ -36,6 +36,15 @@ export const allWords = (db, set_array) => {
   }, null);
 };
 
+export const allFavoriteWords = (db, set_array) => {
+  db.transaction((tx) => {
+    tx.executeSql(
+      "select * from Word where favorite = 1",
+      [],
+      (_, { rows: { _array } }) => set_array(_array)
+    );
+  }, null);
+};
 export async function changeFavorite(db, id, favorite) {
   db.transaction((tx) => {
     tx.executeSql("update Word set favorite=? where id = ?", [favorite, id]);

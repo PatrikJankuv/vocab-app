@@ -2,16 +2,28 @@ import * as React from "react";
 import { HomeScreen } from "../screens/HomeScreen";
 import { ExplorerScreen } from "../screens/ExplorerScreen";
 import { SettingsScreen } from "../screens/SettingsScreen";
+import { FavoriteScreen } from "../screens/FavoriteScreen";
 import { color_grey, color_primary } from "./../util/Colors";
 import Ionicons from "react-native-vector-icons/Ionicons";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { createMaterialTopTabNavigator } from "@react-navigation/material-top-tabs";
+
+const HomeTab = createMaterialTopTabNavigator();
+function HomeTabScreen() {
+  return (
+    <HomeTab.Navigator>
+      <HomeTab.Screen name="Explored" component={HomeScreen} />
+      <HomeTab.Screen name="Favorite" component={FavoriteScreen} />
+    </HomeTab.Navigator>
+  );
+}
 
 const HomeStack = createStackNavigator();
 function HomeStackScreen() {
   return (
     <HomeStack.Navigator>
-      <HomeStack.Screen name="Home" component={HomeScreen} />
+      <HomeStack.Screen name="Home" component={HomeTabScreen} />
     </HomeStack.Navigator>
   );
 }
