@@ -1,9 +1,10 @@
 import * as React from "react";
+import { StyleSheet } from "react-native";
 import { HomeScreen } from "../screens/HomeScreen";
 import { ExplorerScreen } from "../screens/ExplorerScreen";
 import { SettingsScreen } from "../screens/SettingsScreen";
 import { FavoriteScreen } from "../screens/FavoriteScreen";
-import { color_grey, color_primary } from "./../util/Colors";
+import { color_grey, color_primary, color_screen } from "./../util/Colors";
 import Ionicons from "react-native-vector-icons/Ionicons";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
@@ -12,7 +13,15 @@ import { createMaterialTopTabNavigator } from "@react-navigation/material-top-ta
 const HomeTab = createMaterialTopTabNavigator();
 function HomeTabScreen() {
   return (
-    <HomeTab.Navigator>
+    <HomeTab.Navigator
+      tabBarOptions={{
+        activeTintColor: color_primary,
+        inactiveTintColor: color_grey,
+        indicatorStyle: {
+          backgroundColor: color_primary,
+        },
+      }}
+    >
       <HomeTab.Screen name="Explored" component={HomeScreen} />
       <HomeTab.Screen name="Favorite" component={FavoriteScreen} />
     </HomeTab.Navigator>
@@ -69,6 +78,8 @@ export function TabNavigator() {
       tabBarOptions={{
         activeTintColor: color_primary,
         inactiveTintColor: color_grey,
+        // showLabel: false,
+        style: styles.tab,
       }}
     >
       <Tab.Screen name="Home" component={HomeStackScreen} />
@@ -77,3 +88,10 @@ export function TabNavigator() {
     </Tab.Navigator>
   );
 }
+
+const styles = StyleSheet.create({
+  tab: {
+    height: 60,
+    borderColor: color_grey,
+  },
+});
