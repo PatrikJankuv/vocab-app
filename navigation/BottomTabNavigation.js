@@ -4,7 +4,7 @@ import { HomeScreen } from "../screens/HomeScreen";
 import { ExplorerScreen } from "../screens/ExplorerScreen";
 import { SettingsScreen } from "../screens/SettingsScreen";
 import { FavoriteScreen } from "../screens/FavoriteScreen";
-import { color_grey, color_primary, color_screen } from "./../util/Colors";
+import { color_grey, color_primary, color_screen } from "../utils/Colors";
 import Ionicons from "react-native-vector-icons/Ionicons";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";

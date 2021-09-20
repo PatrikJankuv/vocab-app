@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Text, View } from "react-native";
-import { color_screen } from "../util/Colors";
+import { color_screen } from "../utils/Colors";
 
 export function SettingsScreen() {
   return (

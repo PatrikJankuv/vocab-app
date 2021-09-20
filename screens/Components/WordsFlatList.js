@@ -8,9 +8,9 @@ import {
   StatusBar,
 } from "react-native";
 import { FavoriteIconStar } from "./FavoritIconStar";
-import { color_grey, color_primary } from "./../../util/Colors";
+// import { color_grey, color_primary } from "./../../util/Colors";
 import { allExploredWords, allFavoriteWords } from "../../Database";
-import { color_screen } from "./../../util/Colors";
+// import { color_screen } from "./../../util/Colors";
 
 const Item = ({ item, database }) => (
   <View style={styles.item}>
@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
   },
   translate: {
     fontSize: 16,
-    color: color_primary,
+    color: "#f0f",
   },
   content: {
     flex: 1,

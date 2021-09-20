@@ -1,7 +1,8 @@
 import * as React from "react";
 import { Text, View } from "react-native";
 import { AnimatedCircularProgress } from "react-native-circular-progress";
-import { color_primary, color_screen } from "../util/Colors";
+import { Primary_Button } from "./Components/Button";
+import * as Colors from "./../utils/Colors.js";
 
 export function ExplorerScreen() {
   const [fill, setFill] = React.useState(40);
@@ -12,7 +13,7 @@ export function ExplorerScreen() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: color_screen,
+        backgroundColor: Colors.color_screen,
       }}
     >
       <Text>Explored </Text>
@@ -21,7 +22,7 @@ export function ExplorerScreen() {
         width={20}
         backgroundWidth={4}
         fill={fill}
-        tintColor={color_primary}
+        tintColor={Colors.color_primary}
         backgroundColor="#3d5875"
         arcSweepAngle="180"
         rotation="270"
@@ -34,6 +35,8 @@ export function ExplorerScreen() {
           </>
         )}
       </AnimatedCircularProgress>
+
+      <Primary_Button title={"Explore"}></Primary_Button>
     </View>
   );
 }
