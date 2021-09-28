@@ -1,12 +1,15 @@
 import * as React from "react";
-import { Pressable, StyleSheet, Text } from "react-native";
+import { Pressable, StyleSheet, Text, Button, View } from "react-native";
 import * as Color from "./../../utils/Colors";
 
-export function Primary_Button({ title }) {
+export function Primary_Button({ title, navigation, screen }) {
   React.useEffect(() => {}, []);
 
   return (
-    <Pressable style={styles.button}>
+    <Pressable
+      style={styles.button}
+      onPress={() => navigation.navigate(screen)}
+    >
       <Text style={styles.text}>{title}</Text>
     </Pressable>
   );

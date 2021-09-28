@@ -91,7 +91,7 @@ export function TabNavigator() {
 
 const styles = StyleSheet.create({
   tab: {
-    height: 60,
+    // height: 100,
     borderColor: color_grey,
   },
 });

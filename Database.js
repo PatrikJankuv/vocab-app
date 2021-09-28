@@ -36,6 +36,16 @@ export const allExploredWords = (db, set_array) => {
   }, null);
 };
 
+export const getTopNUnexploredWords = (db, set_array, top) => {
+  db.transaction((tx) => {
+    tx.executeSql(
+      "SELECT * from Word WHERE explored = 0 ORDER BY rank LIMIT ?;",
+      [top],
+      (_, { rows: { _array } }) => set_array(_array)
+    );
+  }, null);
+};
+
 export const allFavoriteWords = (db, set_array) => {
   db.transaction((tx) => {
     tx.executeSql(
