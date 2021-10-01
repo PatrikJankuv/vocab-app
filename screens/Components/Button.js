@@ -7,6 +7,19 @@ export function Primary_Button({ title, navigation, screen }) {
 
   return (
     <Pressable
+      style={[styles.button, styles.color_primary]}
+      onPress={() => navigation.navigate(screen)}
+    >
+      <Text style={styles.text}>{title}</Text>
+    </Pressable>
+  );
+}
+
+export function Save_Button({ title, navigation, screen }) {
+  React.useEffect(() => {}, []);
+
+  return (
+    <Pressable
       style={styles.button}
       onPress={() => navigation.navigate(screen)}
     >
@@ -23,6 +36,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     borderRadius: 4,
     elevation: 3,
+    borderRadius: 20,
+  },
+  color_primary: {
+    backgroundColor: Color.color_primary,
+  },
+  color_green: {
     backgroundColor: Color.color_primary,
   },
   text: {
